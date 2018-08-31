@@ -1,5 +1,5 @@
 ---
-title: "Progress Log"
+title: "Progress"
 permalink: /
 ---
 
