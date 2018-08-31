@@ -1,5 +1,4 @@
 ---
 layout: page
+title: Slay to Stay Ironman Progress
 ---
-
-# Slay to Stay Ironman Progress
