@@ -1,5 +1,5 @@
 ---
-title: Slay to Stay Progress
+title: "Progress Log"
 permalink: /
 ---
 
