@@ -2,4 +2,4 @@
 title: null
 ---
 
-# Slay to Stay Ironman Progres
+# Slay to Stay Ironman Progress
