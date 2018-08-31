@@ -1,5 +1,5 @@
 ---
-title: null
+title: Slay to Stay Ironman Progress
 ---
 
-# Slay to Stay Ironman Progress
+## Progress Log
