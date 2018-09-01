@@ -6,7 +6,7 @@ permalink: /tasks/
 
 ## Task Tracker
 
-# | Task | Monster | Amount | Area
+"#" | Task | Monster | Amount | Area
 ---:| --- | --- | ---:| ---
 
 {% for task in site.data.tasks %}
