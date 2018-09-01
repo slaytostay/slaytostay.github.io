@@ -1,9 +1,9 @@
-{[
+[
 	{
-		task: "Birds",
-		monster: "Seagull",
-		amount: "35",
-		area: "Port Sarim Docks",
-		notes: "Unlocks shops: Axes, Runes, Fishing, Food"
+		"task": "Birds",
+		"monster": "Seagull",
+		"amount": "35",
+		"area": "Port Sarim Docks",
+		"notes": "Unlocks shops: Axes, Runes, Fishing, Food"
 	}
-]}
+]
