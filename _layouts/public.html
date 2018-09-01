@@ -11,15 +11,29 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
-      <h3>{{ site.title }} | {{ page.title }}
-        <span style="float:right;">
-          <a href="{{ "/" | absolute_url }}">Home</a> | 
-          <a href="{{ "/" | absolute_url }}">Log</a> |
-          <a href="{{ "/" | absolute_url }}">Rules</a> |
-          <a href="{{ "/" | absolute_url }}">Wiki</a> |
-          <a href="{{ "/" | absolute_url }}">Contact</a>
-        </span>
-      </h3>
+      <div class="menu-big">
+        <h3>{{ site.title }} | {{ page.title }}
+          <span style="float:right;">
+            <a href="{{ "/" | absolute_url }}">Home</a> | 
+            <a href="{{ "/" | absolute_url }}">Log</a> |
+            <a href="{{ "/" | absolute_url }}">Rules</a> |
+            <a href="{{ "/" | absolute_url }}">Wiki</a> |
+            <a href="{{ "/" | absolute_url }}">Contact</a>
+          </span>
+        </h3>
+      </div>
+      <div class="menu-small">
+        <h4><span style="float:center;">{{ site.title }} | {{ page.title }}</span></h4>
+        <h4>
+          <span style="float:center;">
+            <a href="{{ "/" | absolute_url }}">Home</a> | 
+            <a href="{{ "/" | absolute_url }}">Log</a> |
+            <a href="{{ "/" | absolute_url }}">Rules</a> |
+            <a href="{{ "/" | absolute_url }}">Wiki</a> |
+            <a href="{{ "/" | absolute_url }}">Contact</a>
+          </span>
+        </h4>
+      </div>
       {% endif %}
 
       {{ content }}
