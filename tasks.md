@@ -24,10 +24,3 @@ permalink: /tasks/
     </tr>
   </tbody>
 </table>
-
-<div >
-| # | Task | Monster | Amount | Area |
-| ---:| --- | --- | ---:| --- |
-{% for task in site.data.tasks %}| {{ forloop.index }} | {{ task.task }} | {{ task.monster }} | {{ task.amount }} | {{ task.area }} |
-{% endfor %}
-</div>
