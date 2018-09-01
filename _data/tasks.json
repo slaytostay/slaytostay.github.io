@@ -5,5 +5,103 @@
 		"amount": "35",
 		"area": "Port Sarim Docks",
 		"notes": "Unlocks shops: Axes, Runes, Fishing, Food"
-	}
+	},
+	{			
+		"task": "Spiders",
+		"monster": "Spider (lvl 1)",
+		"amount": "17",
+		"area": "Lumbridge Castle Cellar",
+		"notes": "Unlocks RFD chest"
+	},
+	{
+		"task": "Monkeys",
+		"monster": "Monkey (lvl 3)",
+		"amount": "31",
+		"area": "Brimhaven",
+		"notes": "Unlocks Seafood Shop and Agility Arena"
+	},
+	{
+		"task": "Goblins",
+		"monster": "Goblin (lvl 5)",
+		"amount": "33",
+		"area": "Goblin Village",
+		"notes": "Unlocks Druidic Ritual, Doric's Quest"
+	},
+	{
+		"task": "Cows",
+		"monster": "Cow (lvl 2)",
+		"amount": "17",
+		"area": "East of Lumbridge",
+		"notes": "Unlocks Fishing Spot"
+	},
+	{
+		"task": "Ghosts",
+		"monster": "Ghost (lvl 19)",
+		"amount": "48",
+		"area": "Catacombs of Kourend (South)",
+		"notes": "Unlocks Moss Giants, Cyclopses, Hill Giants"
+	},
+	{
+		"task": "Cows",
+		"monster": "Cow (lvl 2)",
+		"amount": "30",
+		"area": "Farm south of Falador",
+		"notes": "Unlocks Farming Store and Patches"
+	},
+	{
+		"task": "Bats",
+		"monster": "Bat (lvl 6)",
+		"amount": "39",
+		"area": "Arceuus House",
+		"notes": "Unlocks Arceuus Spellbook and Shops"
+	},
+	{
+		"task": "Scorpions",
+		"monster": "Scorpion (lvl 19)",
+		"amount": "16",
+		"area": "South of Al Kharid",
+		"notes": "Unlocks Fishing Spot, Kebab"
+	},
+	{
+		"task": "Birds",
+		"monster": "Terrorbird (gnomes)",
+		"amount": "50",
+		"area": "Gnome Stronghold",
+		"notes": "Unlocks Gnome Agility"
+	},
+	{
+		"task": "Cave bugs",
+		"monster": "Cave bug (lvl 6)",
+		"amount": "13",
+		"area": "Lumbridge Swamp Cave",
+		"notes": ""
+	},
+	{
+		"task": "Kalphites",
+		"monster": "Kalphite workers",
+		"amount": "40",
+		"area": "Kalphite Cave",
+		"notes": ""
+	},
+	{
+		"task": "Wolves",
+		"monster": "Wolf (lvl 14)",
+		"amount": "40",
+		"area": "Stronghold of Security 1st Floor",
+		"notes": ""
+	},
+	{
+		"task": "Ice fiends",
+		"monster": "Ice fiend (lvl 13)",
+		"amount": "20",
+		"area": "Ice Mountain",
+		"notes": ""
+	},
+	{				
+		"task": "Monkeys",
+		"monster": "Monkey (lvl 3)",
+		"amount": "42",
+		"area": "",
+		"notes": ""
+	},
 ]
