@@ -6,9 +6,9 @@ permalink: /tasks/
 
 ## Task Tracker
 
-<span style="white-space: nowrap;">
+<div style="white-space: nowrap;">
 | # | Task | Monster | Amount | Area |
 | ---:| --- | --- | ---:| --- |
 {% for task in site.data.tasks %}| {{ forloop.index }} | {{ task.task }} | {{ task.monster }} | {{ task.amount }} | {{ task.area }} |
 {% endfor %}
-</span>
+</div>
