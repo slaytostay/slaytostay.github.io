@@ -1,0 +1,16 @@
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+
+github:
+  private: false
+  license:
+    name: GNUv3
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/slaytostay/slaytostay.github.io"
+  
+title: Slay to Stay
+description: Progress Log
