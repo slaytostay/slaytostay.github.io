@@ -1,5 +1,6 @@
 ---
 title: "Progress"
+layout: public
 permalink: /
 ---
 
