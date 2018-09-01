@@ -17,10 +17,8 @@ permalink: /tasks/
     </tr>
   </thead>
   <tbody>
-    <tr>
-      {% for task in site.data.tasks %}
+    {% for task in site.data.tasks %}<tr>
       <td>{{ forloop.index }}</td><td nowrap>{{ task.task }}</td><td nowrap>{{ task.monster }}</td><td>{{ task.amount }}</td><td nowrap>{{ task.area }}</td>
-      {% endfor %}
-    </tr>
+    </tr>{% endfor %}
   </tbody>
 </table>
