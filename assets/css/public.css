@@ -3,6 +3,8 @@
 
 div.menu-small{
 	display:block;
+	margin-left: auto;
+	margin-right: auto;
 }
 div.menu-big{
 	display:none;
