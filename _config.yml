@@ -6,7 +6,7 @@ theme: jekyll-theme-primer
 github:
   private: false
   license:
-    name: GNUv3
+    name: GPLv3
   source:
     branch: "master"
     path: "/"
