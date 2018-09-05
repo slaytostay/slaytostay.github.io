@@ -19,7 +19,7 @@ permalink: /rules/
 1. Allowed to make use of teleports/toll gates/shortcuts.
 1. Allowed to use items anywhere as long as they don't use external resources.
 1. Allowed to use any item needed for a slayer task which can't be acquired in current unlocked areas.
-  * Example: light source for Lumbridge Caves
+	* Example: light source for Lumbridge Caves
 1. Allowed to do quests which are started in unlocked areas.
 	* Can only use items acquired from the quest or unlocked areas.
 1. Allowed to do clues acquired in unlocked areas or during slayer tasks.
