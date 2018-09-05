@@ -4,13 +4,15 @@
 		"monster": "Seagull",
 		"amount": "35",
 		"area": "Port Sarim Docks",
+		"coords": "5595,2515;5775,2775",
 		"notes": "Unlocks shops: Axes, Runes, Fishing, Food"
 	},
-	{			
+	{
 		"task": "Spiders",
 		"monster": "Spider (lvl 1)",
 		"amount": "17",
 		"area": "Lumbridge Castle Cellar",
+		"map": "lumbridge-caves",
 		"notes": "Unlocks RFD chest"
 	},
 	{
@@ -18,6 +20,7 @@
 		"monster": "Monkey (lvl 3)",
 		"amount": "31",
 		"area": "Brimhaven",
+		"coords": "4830,2685;5020,2865",
 		"notes": "Unlocks Seafood Shop and Agility Arena"
 	},
 	{
@@ -25,13 +28,15 @@
 		"monster": "Goblin (lvl 5)",
 		"amount": "33",
 		"area": "Goblin Village",
-		"notes": "Unlocks Druidic Ritual, Doric's Quest"
+		"coords": "5365,1750;5500,1965",
+		"notes": "Unlocks Druidic Ritual, Dorics Quest"
 	},
 	{
 		"task": "Cows",
 		"monster": "Cow (lvl 2)",
 		"amount": "17",
 		"area": "East of Lumbridge",
+		"coords": "6260,2380;6380,2605",
 		"notes": "Unlocks Fishing Spot"
 	},
 	{
@@ -39,13 +44,15 @@
 		"monster": "Ghost (lvl 19)",
 		"amount": "48",
 		"area": "Catacombs of Kourend (South)",
+		"map": "kourend-catacombs",
 		"notes": "Unlocks Moss Giants, Cyclopses, Hill Giants"
 	},
 	{
 		"task": "Cows",
 		"monster": "Cow (lvl 2)",
 		"amount": "30",
-		"area": "Farm south of Falador",
+		"area": "Farm South of Falador",
+		"coords": "5600,2330;5760,2480",
 		"notes": "Unlocks Farming Store and Patches"
 	},
 	{
@@ -53,6 +60,7 @@
 		"monster": "Bat (lvl 6)",
 		"amount": "39",
 		"area": "Arceuus House",
+		"coords": "1445,586;1945,790;1260,790;1775,920;1360,920;1775,1190",
 		"notes": "Unlocks Arceuus Spellbook and Shops"
 	},
 	{
@@ -60,6 +68,7 @@
 		"monster": "Scorpion (lvl 19)",
 		"amount": "16",
 		"area": "South of Al Kharid",
+		"coords": "6335,2760;6415,2900",
 		"notes": "Unlocks Fishing Spot, Kebab"
 	},
 	{
@@ -67,6 +76,7 @@
 		"monster": "Terrorbird (gnomes)",
 		"amount": "50",
 		"area": "Gnome Stronghold",
+		"coords": "3680,1910;4065,2155",
 		"notes": "Unlocks Gnome Agility"
 	},
 	{
@@ -95,13 +105,14 @@
 		"monster": "Ice fiend (lvl 13)",
 		"amount": "20",
 		"area": "Ice Mountain",
+		"coords": "5535,1725;5670,2005",
 		"notes": ""
 	},
-	{				
+	{
 		"task": "Monkeys",
 		"monster": "Monkey (lvl 3)",
 		"amount": "42",
 		"area": "",
 		"notes": ""
-	},
+	}
 ]

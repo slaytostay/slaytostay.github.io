@@ -11,6 +11,11 @@ github:
     branch: "master"
     path: "/"
   repository_url: "https://github.com/slaytostay/slaytostay.github.io"
-  
+
+repository: slaytostay/slaytostay.github.io
+
 title: Slay to Stay
 description: Progress Log
+
+include: [_data, assets]
+exclude: [README.md, LICENSE, tools]
