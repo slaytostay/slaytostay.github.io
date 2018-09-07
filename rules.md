@@ -24,6 +24,10 @@ permalink: /rules/
 	* Can only use items acquired from the quest or unlocked areas.
 1. Allowed to do clues acquired in unlocked areas or during slayer tasks.
 	* Can only use items acquired from unlocked areas.
+1. Minor exceptions:
+	* Insuring pets.
+	* Buying skill capes.
+	* Locking Kourend favour.
 
 ### Unlocked Areas
 1. The unlocked area is based on the place where the slayer task is done.
