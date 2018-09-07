@@ -115,5 +115,12 @@
 		"area": "Ardougne Zoo",
 		"coords": "4250,2375;4490,2525",
 		"notes": "Unlocks General Store, House, 5 Quests, Furnace"
+	},
+	{
+		"task": "Zombies",
+		"monster": "Zombie (lvl 18)",
+		"amount": "24",
+		"area": "",
+		"notes": ""
 	}
 ]
