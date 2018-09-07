@@ -113,7 +113,7 @@
 		"monster": "Monkey (lvl 3)",
 		"amount": "42",
 		"area": "Ardougne Zoo",
-		coords: "4250,2375;4490,2525",
+		"coords": "4250,2375;4490,2525",
 		"notes": "Unlocks General Store, House, 5 Quests, Furnace"
 	}
 ]
