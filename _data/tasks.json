@@ -122,5 +122,12 @@
 		"amount": "24",
 		"area": "Stronghold of Security 2nd Floor",
 		"notes": ""
+	},
+	{
+		"task": "Kalphite",
+		"monster": "Kalphite Worker (lvl 28)",
+		"amount": "32",
+		"area": "Kalphite Hive",
+		"notes": "Unlocks Kalphites"
 	}
 ]
