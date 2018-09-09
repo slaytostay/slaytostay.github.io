@@ -152,5 +152,12 @@
 		"amount": "19",
 		"area": "Stronghold of Security 1st Floor",
 		"notes": ""
+	},
+	{
+		"task": "Spider",
+		"monster": "Spider (lvl 3)",
+		"amount": "22",
+		"area": "H.A.M. Hideout Entrance",
+		"notes": "Unlocks H.A.M. Hideout"
 	}
 ]
