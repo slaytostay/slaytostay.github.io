@@ -135,6 +135,7 @@
 		"monster": "Guard Dog (lvl 44)",
 		"amount": "37",
 		"area": "Ardougne Mansion",
+		"coords": "4385,2285;4600,2445",
 		"notes": "Unlocks Platebody Store, Cakes, Silver"
 	},
 	{
@@ -142,6 +143,7 @@
 		"monster": "Bear",
 		"amount": "32",
 		"area": "Varrock Castle",
+		"coords": "6165,1754;6305,1905",
 		"notes": "Unlocks Priest in Peril"
 	}
 ]
