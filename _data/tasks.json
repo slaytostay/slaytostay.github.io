@@ -159,6 +159,14 @@
 		"amount": "22",
 		"area": "H.A.M. Hideout Entrance",
 		"coords": "5995,2480;6165,2640",
-		"notes": "Unlocks H.A.M. Hideout"
+		"notes": "Unlocks H.A.M. Hideout, Fred's Farm, Farming Patch"
+	},
+	{
+		"task": "Dogs",
+		"monster": "Guard Dog (lvl 44)",
+		"amount": "39",
+		"area": "McGrubor's Wood",
+		"coords": "4385,1715;4630,1940",
+		"notes": "Unlocks Woad Leaves"
 	}
 ]
