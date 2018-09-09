@@ -168,5 +168,12 @@
 		"area": "McGrubor's Wood",
 		"coords": "4385,1715;4630,1940",
 		"notes": "Unlocks Woad Leaves"
+	},
+	{
+		"task": "Minotaurs",
+		"monster": "Minotaur",
+		"amount": "12",
+		"area": "Stronghold of Security 1st Floor",
+		"notes": ""
 	}
 ]
