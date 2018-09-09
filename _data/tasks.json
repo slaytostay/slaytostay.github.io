@@ -145,5 +145,12 @@
 		"area": "Varrock Castle",
 		"coords": "6165,1754;6305,1905",
 		"notes": "Unlocks Priest in Peril"
+	},
+	{
+		"task": "Minotaurs",
+		"monster": "Minotaur",
+		"amount": "19",
+		"area": "Stronghold of Security 1st Floor",
+		"notes": ""
 	}
 ]
