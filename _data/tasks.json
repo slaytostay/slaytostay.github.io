@@ -129,5 +129,19 @@
 		"amount": "32",
 		"area": "Kalphite Hive",
 		"notes": "Unlocks Kalphites"
+	},
+	{
+		"task": "Dogs",
+		"monster": "Guard Dog (lvl 44)",
+		"amount": "37",
+		"area": "Ardougne Mansion",
+		"notes": "Unlocks Platebody Store, Cakes, Silver"
+	},
+	{
+		"task": "Bears",
+		"monster": "Bear",
+		"amount": "32",
+		"area": "Varrock Castle",
+		"notes": "Unlocks Priest in Peril"
 	}
 ]
