@@ -175,5 +175,12 @@
 		"amount": "12",
 		"area": "Stronghold of Security 1st Floor",
 		"notes": ""
+	},
+	{
+		"task": "Spider",
+		"monster": "Spider (lvl 3)",
+		"amount": "45",
+		"area": "Al Kharid Sorceres House",
+		"notes": "Unlocks Plateskirts"
 	}
 ]
