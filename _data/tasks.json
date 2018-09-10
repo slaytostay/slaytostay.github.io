@@ -183,5 +183,12 @@
 		"area": "Al Kharid Sorceres House",
 		"coords": "6460,2810;6565,2980",
 		"notes": "Unlocks Plateskirts"
+	},
+	{
+		"task": "Ice fiends",
+		"monster": "Ice fiend (lvl 13)",
+		"amount": "20",
+		"area": "Ice Mountain",
+		"notes": ""
 	}
 ]
