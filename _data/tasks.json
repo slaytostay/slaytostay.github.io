@@ -190,5 +190,12 @@
 		"amount": "20",
 		"area": "Ice Mountain",
 		"notes": ""
+	},
+	{
+		"task": "Cows",
+		"monster": "Cow (lvl 2)",
+		"amount": "15",
+		"area": "",
+		"notes": ""
 	}
 ]
