@@ -181,6 +181,7 @@
 		"monster": "Spider (lvl 3)",
 		"amount": "45",
 		"area": "Al Kharid Sorceres House",
+		"coords": "6460,2810;6565,2980",
 		"notes": "Unlocks Plateskirts"
 	}
 ]
