@@ -195,7 +195,8 @@
 		"task": "Cows",
 		"monster": "Cow (lvl 2)",
 		"amount": "15",
-		"area": "",
+		"area": "North of Yanille",
+		"coords": "4205,2875;4480,3010",
 		"notes": ""
 	}
 ]
