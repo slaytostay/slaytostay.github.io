@@ -219,6 +219,7 @@
 		"monster": "Jungle spider (lvl 44)",
 		"amount": "44",
 		"area": "Tai Bwo Wannai",
+		"coords": "4855,2930;5065,3090",
 		"notes": "Unlocks General Store, Anvil, 2 Quests"
 	},
 	{
@@ -226,6 +227,7 @@
 		"monster": "Goblin (lvl 3)",
 		"amount": "29",
 		"area": "Rimmington",
+		"coords": "5410,2580;5585,2800",
 		"notes": "Unlocks Rimmington"
 	},
 	{
@@ -255,5 +257,13 @@
 		"amount": "18",
 		"area": "Kalphite Cave",
 		"notes": ""
+	},
+	{
+		"task": "Dogs",
+		"monster": "Guard Dog (lvl 44)",
+		"amount": "40",
+		"area": "Kourend Castle",
+		"coords": "1345,1220;1560,1365",
+		"notes": "Unlocks Platebody Store, Cakes, Silver"
 	}
 ]
