@@ -198,5 +198,13 @@
 		"area": "North of Yanille",
 		"coords": "4205,2875;4480,3010",
 		"notes": ""
+	},
+	{
+		"task": "Bats",
+		"monster": "Bat (lvl 6)",
+		"amount": "19",
+		"area": "Silvarea",
+		"coords": "6460,1775;6815,1955",
+		"notes": ""
 	}
 ]
