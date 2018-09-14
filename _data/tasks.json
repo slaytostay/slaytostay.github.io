@@ -248,5 +248,12 @@
 		"amount": "11",
 		"area": "Lumbridge Swamp Cave",
 		"notes": ""
+	},
+	{
+		"task": "Kalphite",
+		"monster": "Kalphite Worker (lvl 28)",
+		"amount": "18",
+		"area": "Kalphite Cave",
+		"notes": ""
 	}
 ]
