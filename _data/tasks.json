@@ -265,5 +265,12 @@
 		"area": "Kourend Castle",
 		"coords": "1345,1220;1560,1365",
 		"notes": "Unlocks Platebody Store, Cakes, Silver"
+	},
+	{
+		"task": "Scorpions",
+		"monster": "Scorpion (lvl 19)",
+		"amount": "44",
+		"area": "Dwarven Mine",
+		"notes": "Unlocks Motherlode Mine, Shops, Ores"
 	}
 ]
