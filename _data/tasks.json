@@ -241,5 +241,12 @@
 		"amount": "14",
 		"area": "Ice Mountain",
 		"notes": ""
+	},
+	{
+		"task": "Cave bugs",
+		"monster": "Cave bug (lvl 6)",
+		"amount": "11",
+		"area": "Lumbridge Swamp Cave",
+		"notes": ""
 	}
 ]
