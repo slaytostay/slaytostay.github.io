@@ -268,9 +268,16 @@
 	},
 	{
 		"task": "Scorpions",
-		"monster": "Scorpion (lvl 19)",
+		"monster": "Scorpion (lvl 14)",
 		"amount": "44",
-		"area": "Dwarven Mine",
-		"notes": "Unlocks Motherlode Mine, Shops, Ores"
+		"area": "Dwarven Mine (South)",
+		"notes": "Unlocks Motherlode Mine, Ores"
+	},
+	{
+		"task": "Dwarves",
+		"monster": "Dwarf (lvl 14)",
+		"amount": "46",
+		"area": "Dwarven Mine (North)",
+		"notes": "Unlocks Shops, Ores, Anvil"
 	}
 ]
