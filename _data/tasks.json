@@ -234,5 +234,12 @@
 		"amount": "16",
 		"area": "Varrock Sewer",
 		"notes": "Unlocks Moss Boss"
+	},
+	{
+		"task": "Ice fiends",
+		"monster": "Ice fiend (lvl 13)",
+		"amount": "14",
+		"area": "Ice Mountain",
+		"notes": ""
 	}
 ]
