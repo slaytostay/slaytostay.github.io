@@ -227,5 +227,12 @@
 		"amount": "29",
 		"area": "Lumbridge",
 		"notes": ""
+	},
+	{
+		"task": "Spiders",
+		"monster": "Various spiders",
+		"amount": "16",
+		"area": "Varrock Sewer",
+		"notes": "Unlocks Moss Boss"
 	}
 ]
