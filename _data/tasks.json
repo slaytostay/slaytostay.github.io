@@ -206,5 +206,19 @@
 		"area": "Silvarea",
 		"coords": "6460,1775;6815,1955",
 		"notes": "Unlocks 3 Quests, Limestone Mine"
+	},
+	{
+		"task": "Ice fiends",
+		"monster": "Ice fiend (lvl 13)",
+		"amount": "18",
+		"area": "Ice Mountain",
+		"notes": ""
+	},
+	{
+		"task": "Spiders",
+		"monster": "Jungle spider (lvl 44)",
+		"amount": "44",
+		"area": "Tai Bwo Wannai",
+		"notes": "Unlocks General Store, Anvil, 2 Quests"
 	}
 ]
