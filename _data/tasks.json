@@ -286,5 +286,12 @@
 		"amount": "50",
 		"area": "Lumbridge Swamp Caves",
 		"notes": ""
+	},
+	{
+		"task": "Skeleton",
+		"monster": "",
+		"amount": "21",
+		"area": "",
+		"notes": ""
 	}
 ]
