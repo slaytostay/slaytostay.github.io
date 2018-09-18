@@ -279,5 +279,12 @@
 		"amount": "46",
 		"area": "Dwarven Mine (North)",
 		"notes": "Unlocks Shops, Ores, Anvil"
+	},
+	{
+		"task": "Cave Crawlers",
+		"monster": "Dwarf (lvl 23)",
+		"amount": "50",
+		"area": "Lumbridge Swamp Caves",
+		"notes": ""
 	}
 ]
