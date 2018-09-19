@@ -288,10 +288,10 @@
 		"notes": ""
 	},
 	{
-		"task": "Skeleton",
-		"monster": "",
+		"task": "Skeletons",
+		"monster": "Skeleton (lvl 22)",
 		"amount": "21",
-		"area": "",
-		"notes": ""
+		"area": "North of Edgeville",
+		"notes": "Unlocks Krystilia, Edgeville"
 	}
 ]
