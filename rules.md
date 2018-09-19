@@ -36,6 +36,7 @@ permalink: /rules/
 1. All content in render distance of the spawn positions of the assigned monster in that area is unlocked.
 1. All content within reasonable boundaries in the area is unlocked.
 	* There are no objective rules about what an area is. It is fine, as long as it is reasonable and the slayer monster spawns there.
+1. Any building including all floors and underground areas are unlocked as long as there are no other slayer monsters there.
 
 ### 4. Slayer Masters
 1. To unlock Krystilia:
