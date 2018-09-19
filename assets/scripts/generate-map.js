@@ -56,6 +56,19 @@ function generateMap(json) {
 	}
 
 	var scene = document.getElementById('layers');
-	$(".layers").panzoom();
+	
+	var $section = $('.layers');
+          var $panzoom = $section.panzoom();
+          $panzoom.parent().on('mousewheel.focal', function( e ) {
+            e.preventDefault();
+            var delta = e.delta || e.originalEvent.wheelDelta;
+            var zoomOut = delta ? delta < 0 : e.originalEvent.deltaY > 0;
+            $panzoom.panzoom('zoom', zoomOut, {
+              increment: 0.1,
+              animate: true,
+              focal: e
+            });
+          });
+        })();
 	//panzoom(scene)
 }
