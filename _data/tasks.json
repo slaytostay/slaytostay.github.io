@@ -293,5 +293,12 @@
 		"amount": "21",
 		"area": "North of Edgeville",
 		"notes": "Unlocks Krystilia, Edgeville"
+	},
+	{
+		"task": "Banshees",
+		"monster": "Banshee (lvl 23)",
+		"amount": "39",
+		"area": "Slayer Tower",
+		"notes": ""
 	}
 ]
