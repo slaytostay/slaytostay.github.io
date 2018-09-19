@@ -56,6 +56,6 @@ function generateMap(json) {
 	}
 
 	var scene = document.getElementById('layers');
-	$("#layers").panzoom();
+	$(".layers").panzoom();
 	//panzoom(scene)
 }
