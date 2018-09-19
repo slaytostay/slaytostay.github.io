@@ -292,6 +292,7 @@
 		"monster": "Skeleton (lvl 22)",
 		"amount": "21",
 		"area": "North of Edgeville",
+		"coords": "5775,1635;5940,1845",
 		"notes": "Unlocks Krystilia, Edgeville"
 	},
 	{
@@ -299,6 +300,7 @@
 		"monster": "Banshee (lvl 23)",
 		"amount": "39",
 		"area": "Slayer Tower",
+		"coords": "6765,1550;6985,1740",
 		"notes": ""
 	}
 ]
