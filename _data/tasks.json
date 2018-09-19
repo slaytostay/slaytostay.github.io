@@ -307,8 +307,7 @@
 		"task": "Kalphites",
 		"monster": "Kalphite Soldier (lvl 85)",
 		"amount": "33",
-		"area": "Slayer Tower",
-		"coords": "6765,1550;6985,1740",
-		"notes": "Unlocks Mazchna"
+		"area": "Kalphite Hives",
+		"notes": ""
 	}
 ]
