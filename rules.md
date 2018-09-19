@@ -39,14 +39,14 @@ permalink: /rules/
 
 ### 4. Slayer Masters
 1. To unlock Krystilia:
-	* Complete a skeleton task North of Edgeville.
+	- [x] Complete a skeleton task North of Edgeville.
 1. To unlock Mazchna:
-	* Complete a banshee task in the Slayer Tower.
+	- [x] Complete a banshee task in the Slayer Tower.
 1. To unlock Vannaka:
-	* Complete any task in the Edgeville Dungeon.
+	- [ ] Complete any task in the Edgeville Dungeon.
 1. To unlock Chaeldar:
-	* Complete a cow task in Zanaris.
+	- [ ] Complete a cow task in Zanaris.
 1. To unlock Nieve:
-	* Complete a birds task in the Gnome Stronghold.
+	- [x] Complete a birds task in the Gnome Stronghold.
 1. To unlock Duradel:
-	* Complete a monkey task north of Shilo Village.
+	- [ ] Complete a monkey task north of Shilo Village.
