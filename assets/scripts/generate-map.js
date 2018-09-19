@@ -57,7 +57,7 @@ function generateMap(json) {
 
 	var scene = document.getElementById('layers');
 	
-	var $section = $('.layers');
+	var $section = $('#layers');
 	var $panzoom = $section.panzoom();
 	$panzoom.parent().on('mousewheel.focal', function( e ) {
 		e.preventDefault();
