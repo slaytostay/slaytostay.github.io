@@ -309,5 +309,13 @@
 		"amount": "33",
 		"area": "Kalphite Hives",
 		"notes": ""
+	},
+	{
+		"task": "Cows",
+		"monster": "Cow (lvl 2)",
+		"amount": "34",
+		"area": "Crafting Guild",
+		"coords": "5285,2390;5440,2555",
+		"notes": ""
 	}
 ]
