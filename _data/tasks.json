@@ -317,5 +317,12 @@
 		"area": "Crafting Guild",
 		"coords": "5285,2390;5440,2555",
 		"notes": ""
+	},
+	{
+		"task": "Cave Slimes",
+		"monster": "Cave Slime (lvl 23)",
+		"amount": "34",
+		"area": "Lumbridge Swamp Caves",
+		"notes": ""
 	}
 ]
