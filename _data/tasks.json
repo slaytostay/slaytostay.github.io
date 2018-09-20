@@ -332,5 +332,12 @@
 		"area": "Bone Yard",
 		"coords": "6110,1010;6475,1200",
 		"notes": ""
+	},
+	{
+		"task": "Kalphites",
+		"monster": "Kalphite Soldier (lvl 85)",
+		"amount": "44",
+		"area": "Kalphite Hives",
+		"notes": ""
 	}
 ]
