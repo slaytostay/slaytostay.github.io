@@ -324,5 +324,13 @@
 		"amount": "34",
 		"area": "Lumbridge Swamp Caves",
 		"notes": ""
+	},
+	{
+		"task": "Skeletons",
+		"monster": "Skeleton (lvl 25)",
+		"amount": "33",
+		"area": "Bone Yard",
+		"coords": "6110,1010;6475,1200",
+		"notes": ""
 	}
 ]
