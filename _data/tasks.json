@@ -346,5 +346,12 @@
 		"amount": "13",
 		"area": "Lumbridge Swamp Caves",
 		"notes": ""
+	},
+	{
+		"task": "Cave bugs",
+		"monster": "Cave bug (lvl 6)",
+		"amount": "20",
+		"area": "Lumbridge Swamp Cave",
+		"notes": ""
 	}
 ]
