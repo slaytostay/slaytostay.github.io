@@ -55,8 +55,7 @@ function generateMap(json) {
 
 	}
 
-	var scene = document.getElementById('layers');
-	
+	/* jQuery panzoom (not working)
 	var $section = $('#layers');
 	var $panzoom = $section.panzoom();
 	$panzoom.parent().on('mousewheel.focal', function( e ) {
@@ -68,6 +67,7 @@ function generateMap(json) {
 			animate: true,
 			focal: e
 		});
-	});
-	//panzoom(scene)
+	});//*/
+	var scene = document.getElementById('layers');
+	panzoom(scene);
 }
