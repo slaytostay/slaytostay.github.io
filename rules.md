@@ -50,4 +50,4 @@ permalink: /rules/
 1. To unlock Nieve:
 	- [x] &nbsp;Complete a birds task in the Gnome Stronghold.
 1. To unlock Duradel:
-	- [ ] &nbsp;Complete a monkey task north of Shilo Village.
+	- [x] &nbsp;Complete a monkey task north of Shilo Village.
