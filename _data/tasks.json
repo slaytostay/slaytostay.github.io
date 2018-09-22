@@ -361,5 +361,12 @@
 		"area": "North of Shilo Village",
 		"coords": "3980,3160;5225,3485",
 		"notes": "Unlocks Shilo Village, Duradel, Nature Altar"
+	},
+	{
+		"task": "Dwarves",
+		"monster": "Dwarf (lvl 14)",
+		"amount": "39",
+		"area": "Southwest of Coal Trucks",
+		"notes": "Unlocks Dwarf Cannon"
 	}
 ]
