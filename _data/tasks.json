@@ -364,7 +364,7 @@
 	},
 	{
 		"task": "Dwarves",
-		"monster": "Dwarf (lvl 14)",
+		"monster": "Guard (lvl 14)",
 		"amount": "39",
 		"area": "Southwest of Coal Trucks",
 		"coords": "4180,1765;4385,2010",
