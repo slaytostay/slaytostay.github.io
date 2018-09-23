@@ -3,7 +3,7 @@
 		"task": "Birds",
 		"monster": "Seagull",
 		"amount": "35",
-		"area": "Port Sarim Docks",
+		"area": "Port Sarim",
 		"coords": "5595,2515;5775,2775",
 		"notes": "Unlocks shops: Axes, Runes, Fishing, Food"
 	},
