@@ -608,11 +608,14 @@
 		"area": "North of Edgeville",
 		"coords": "5775,1635;5940,1845",
 		"unlocks": {
-			"quests": [],
+			"quests": [
+				"Enter the Abyss"
+			],
 			"shops": [
 				"Perdu",
 				"Edgeville General Store",
-				"Oziach's Armour"
+				"Oziach's Armour",
+				"Mage of Zamorak"
 			],
 			"other": [
 				"Krystilia"
