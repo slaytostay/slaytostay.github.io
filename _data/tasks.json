@@ -1,6 +1,7 @@
 [
 	{
 		"task": "Birds",
+		"master": "Turael",
 		"monster": "Seagull",
 		"amount": "35",
 		"area": "Port Sarim",
@@ -23,6 +24,7 @@
 	},
 	{
 		"task": "Spiders",
+		"master": "Turael",
 		"monster": "Spider (lvl 1)",
 		"amount": "17",
 		"area": "Lumbridge Castle Cellar",
@@ -39,6 +41,7 @@
 	},
 	{
 		"task": "Monkeys",
+		"master": "Turael",
 		"monster": "Monkey (lvl 3)",
 		"amount": "31",
 		"area": "Brimhaven",
@@ -60,6 +63,7 @@
 	},
 	{
 		"task": "Goblins",
+		"master": "Turael",
 		"monster": "Goblin (lvl 5)",
 		"amount": "33",
 		"area": "Goblin Village",
@@ -80,6 +84,7 @@
 	},
 	{
 		"task": "Cows",
+		"master": "Turael",
 		"monster": "Cow (lvl 2)",
 		"amount": "17",
 		"area": "East of Lumbridge",
@@ -95,6 +100,7 @@
 	},
 	{
 		"task": "Ghosts",
+		"master": "Turael",
 		"monster": "Ghost (lvl 19)",
 		"amount": "48",
 		"area": "Catacombs of Kourend (South)",
@@ -111,6 +117,7 @@
 	},
 	{
 		"task": "Cows",
+		"master": "Turael",
 		"monster": "Cow (lvl 2)",
 		"amount": "30",
 		"area": "Farm South of Falador",
@@ -128,6 +135,7 @@
 	},
 	{
 		"task": "Bats",
+		"master": "Turael",
 		"monster": "Bat (lvl 6)",
 		"amount": "39",
 		"area": "Arceuus House",
@@ -151,6 +159,7 @@
 	},
 	{
 		"task": "Scorpions",
+		"master": "Turael",
 		"monster": "Scorpion (lvl 19)",
 		"amount": "16",
 		"area": "South of Al Kharid",
@@ -171,6 +180,7 @@
 	},
 	{
 		"task": "Birds",
+		"master": "Turael",
 		"monster": "Terrorbird (gnomes)",
 		"amount": "50",
 		"area": "Tree Gnome Stronghold (South)",
@@ -192,6 +202,7 @@
 	},
 	{
 		"task": "Cave bugs",
+		"master": "Turael",
 		"monster": "Cave bug (lvl 6)",
 		"amount": "13",
 		"area": "Lumbridge Swamp Cave",
@@ -206,6 +217,7 @@
 	},
 	{
 		"task": "Kalphites",
+		"master": "Turael",
 		"monster": "Kalphite workers",
 		"amount": "40",
 		"area": "Kalphite Cave",
@@ -213,6 +225,7 @@
 	},
 	{
 		"task": "Wolves",
+		"master": "Turael",
 		"monster": "Wolf (lvl 14)",
 		"amount": "40",
 		"area": "Stronghold of Security 1st Floor",
@@ -227,6 +240,7 @@
 	},
 	{
 		"task": "Ice fiends",
+		"master": "Turael",
 		"monster": "Ice fiend (lvl 13)",
 		"amount": "20",
 		"area": "Ice Mountain",
@@ -242,6 +256,7 @@
 	},
 	{
 		"task": "Monkeys",
+		"master": "Turael",
 		"monster": "Monkey (lvl 3)",
 		"amount": "42",
 		"area": "Ardougne Zoo",
@@ -265,6 +280,7 @@
 	},
 	{
 		"task": "Zombies",
+		"master": "Turael",
 		"monster": "Zombie (lvl 44)",
 		"amount": "24",
 		"area": "Stronghold of Security 2nd Floor",
@@ -279,6 +295,7 @@
 	},
 	{
 		"task": "Kalphite",
+		"master": "Turael",
 		"monster": "Kalphite Worker (lvl 28)",
 		"amount": "32",
 		"area": "Kalphite Hive",
@@ -286,6 +303,7 @@
 	},
 	{
 		"task": "Dogs",
+		"master": "Turael",
 		"monster": "Guard Dog (lvl 44)",
 		"amount": "37",
 		"area": "Ardougne Mansion",
@@ -304,6 +322,7 @@
 	},
 	{
 		"task": "Bears",
+		"master": "Turael",
 		"monster": "Bear",
 		"amount": "32",
 		"area": "Varrock Palace",
@@ -323,6 +342,7 @@
 	},
 	{
 		"task": "Minotaurs",
+		"master": "Turael",
 		"monster": "Minotaur",
 		"amount": "19",
 		"area": "Stronghold of Security 1st Floor",
@@ -330,6 +350,7 @@
 	},
 	{
 		"task": "Spider",
+		"master": "Turael",
 		"monster": "Spider (lvl 3)",
 		"amount": "22",
 		"area": "H.A.M. Hideout Entrance",
@@ -347,6 +368,7 @@
 	},
 	{
 		"task": "Dogs",
+		"master": "Turael",
 		"monster": "Guard Dog (lvl 44)",
 		"amount": "39",
 		"area": "McGrubor's Wood",
@@ -363,6 +385,7 @@
 	},
 	{
 		"task": "Minotaurs",
+		"master": "Turael",
 		"monster": "Minotaur",
 		"amount": "12",
 		"area": "Stronghold of Security 1st Floor",
@@ -370,6 +393,7 @@
 	},
 	{
 		"task": "Spider",
+		"master": "Turael",
 		"monster": "Spider (lvl 3)",
 		"amount": "45",
 		"area": "Al Kharid Sorceres House",
@@ -386,6 +410,7 @@
 	},
 	{
 		"task": "Ice fiends",
+		"master": "Turael",
 		"monster": "Ice fiend (lvl 13)",
 		"amount": "20",
 		"area": "Ice Mountain",
@@ -393,6 +418,7 @@
 	},
 	{
 		"task": "Cows",
+		"master": "Turael",
 		"monster": "Cow (lvl 2)",
 		"amount": "15",
 		"area": "North of Yanille",
@@ -401,6 +427,7 @@
 	},
 	{
 		"task": "Bats",
+		"master": "Turael",
 		"monster": "Bat (lvl 6)",
 		"amount": "19",
 		"area": "Silvarea",
@@ -420,6 +447,7 @@
 	},
 	{
 		"task": "Ice fiends",
+		"master": "Turael",
 		"monster": "Ice fiend (lvl 13)",
 		"amount": "18",
 		"area": "Ice Mountain",
@@ -427,6 +455,7 @@
 	},
 	{
 		"task": "Spiders",
+		"master": "Turael",
 		"monster": "Jungle spider (lvl 44)",
 		"amount": "44",
 		"area": "Tai Bwo Wannai",
@@ -447,6 +476,7 @@
 	},
 	{
 		"task": "Goblins",
+		"master": "Turael",
 		"monster": "Goblin (lvl 3)",
 		"amount": "29",
 		"area": "Rimmington",
@@ -469,6 +499,7 @@
 	},
 	{
 		"task": "Spiders",
+		"master": "Turael",
 		"monster": "Various spiders",
 		"amount": "16",
 		"area": "Varrock Sewer",
@@ -483,6 +514,7 @@
 	},
 	{
 		"task": "Ice fiends",
+		"master": "Turael",
 		"monster": "Ice fiend (lvl 13)",
 		"amount": "14",
 		"area": "Ice Mountain",
@@ -490,6 +522,7 @@
 	},
 	{
 		"task": "Cave bugs",
+		"master": "Turael",
 		"monster": "Cave bug (lvl 6)",
 		"amount": "11",
 		"area": "Lumbridge Swamp Cave",
@@ -497,6 +530,7 @@
 	},
 	{
 		"task": "Kalphite",
+		"master": "Turael",
 		"monster": "Kalphite Worker (lvl 28)",
 		"amount": "18",
 		"area": "Kalphite Cave",
@@ -504,6 +538,7 @@
 	},
 	{
 		"task": "Dogs",
+		"master": "Turael",
 		"monster": "Guard Dog (lvl 44)",
 		"amount": "40",
 		"area": "Kourend Castle",
@@ -524,6 +559,7 @@
 	},
 	{
 		"task": "Scorpions",
+		"master": "Turael",
 		"monster": "Scorpion (lvl 14)",
 		"amount": "44",
 		"area": "Dwarven Mine (South)",
@@ -538,6 +574,7 @@
 	},
 	{
 		"task": "Dwarves",
+		"master": "Turael",
 		"monster": "Dwarf (lvl 14)",
 		"amount": "46",
 		"area": "Dwarven Mine (North)",
@@ -557,6 +594,7 @@
 	},
 	{
 		"task": "Cave Crawlers",
+		"master": "Turael",
 		"monster": "Dwarf (lvl 23)",
 		"amount": "50",
 		"area": "Lumbridge Swamp Caves",
@@ -564,6 +602,7 @@
 	},
 	{
 		"task": "Skeletons",
+		"master": "Turael",
 		"monster": "Skeleton (lvl 22)",
 		"amount": "21",
 		"area": "North of Edgeville",
@@ -583,6 +622,7 @@
 	},
 	{
 		"task": "Banshees",
+		"master": "Turael",
 		"monster": "Banshee (lvl 23)",
 		"amount": "39",
 		"area": "Slayer Tower (Ground Floor)",
@@ -591,6 +631,7 @@
 	},
 	{
 		"task": "Kalphites",
+		"master": "Turael",
 		"monster": "Kalphite Soldier (lvl 85)",
 		"amount": "33",
 		"area": "Kalphite Hives",
@@ -598,6 +639,7 @@
 	},
 	{
 		"task": "Cows",
+		"master": "Turael",
 		"monster": "Cow (lvl 2)",
 		"amount": "34",
 		"area": "Crafting Guild",
@@ -613,6 +655,7 @@
 	},
 	{
 		"task": "Cave Slimes",
+		"master": "Turael",
 		"monster": "Cave Slime (lvl 23)",
 		"amount": "34",
 		"area": "Lumbridge Swamp Caves",
@@ -620,6 +663,7 @@
 	},
 	{
 		"task": "Skeletons",
+		"master": "Turael",
 		"monster": "Skeleton (lvl 25)",
 		"amount": "33",
 		"area": "Bone Yard",
@@ -635,6 +679,7 @@
 	},
 	{
 		"task": "Kalphites",
+		"master": "Turael",
 		"monster": "Kalphite Soldier (lvl 85)",
 		"amount": "44",
 		"area": "Kalphite Hives",
@@ -642,6 +687,7 @@
 	},
 	{
 		"task": "Cave Slimes",
+		"master": "Turael",
 		"monster": "Cave Slime (lvl 23)",
 		"amount": "13",
 		"area": "Lumbridge Swamp Caves",
@@ -649,6 +695,7 @@
 	},
 	{
 		"task": "Cave bugs",
+		"master": "Turael",
 		"monster": "Cave bug (lvl 6)",
 		"amount": "20",
 		"area": "Lumbridge Swamp Cave",
@@ -656,6 +703,7 @@
 	},
 	{
 		"task": "Monkeys",
+		"master": "Turael",
 		"monster": "Monkey (lvl 3)",
 		"amount": "36",
 		"area": "North of Shilo Village",
@@ -678,6 +726,7 @@
 	},
 	{
 		"task": "Dwarves",
+		"master": "Turael",
 		"monster": "Guard (lvl 14)",
 		"amount": "39",
 		"area": "Southwest of Coal Trucks",
@@ -694,4 +743,14 @@
 		},
 		"notes": ""
 	}
+	{
+		"task": "Mammoths",
+		"master": "Krystilia",
+		"monster": "Mammoth (lvl 80)",
+		"amount": "124",
+		"area": "Wilderness (lvl 13 obelisk)",
+		"coords": "5930,1415;6135,1600",
+		"notes": ""
+	}
+
 ]
