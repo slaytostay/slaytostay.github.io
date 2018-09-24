@@ -15,7 +15,7 @@ permalink: /rules/
 1. Once you finish the task, the content within the area you did your slayer task is now unlocked.
 
 ### 2. Exceptions
-1. Turael is the only unlocked slayer master. 
+1. Turael is the only unlocked slayer master.
 	* See section 4 for unlocking Slayer Masters.
 1. Allowed to bank anywhere.
 1. Allowed to make use of teleports/toll gates/shortcuts.
@@ -42,7 +42,7 @@ permalink: /rules/
 1. To unlock Krystilia:
 	- [x] &nbsp;Complete a skeleton task North of Edgeville.
 1. To unlock Mazchna:
-	- [x] &nbsp;Complete a banshee task in the Slayer Tower.
+	- [ ] &nbsp;Complete a werewolves task in Canafis.
 1. To unlock Vannaka:
 	- [ ] &nbsp;Complete any task in the Edgeville Dungeon.
 1. To unlock Chaeldar:
