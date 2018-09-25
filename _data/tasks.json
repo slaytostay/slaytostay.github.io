@@ -745,7 +745,7 @@
 			]
 		},
 		"notes": ""
-	}
+	},
 	{
 		"task": "Mammoths",
 		"master": "Krystilia",
@@ -753,6 +753,24 @@
 		"amount": "124",
 		"area": "Wilderness (lvl 13 obelisk)",
 		"coords": "5930,1415;6135,1600",
+		"notes": ""
+	},
+	{
+		"task": "Lesser Demons",
+		"master": "Krystilia",
+		"monster": "Lesser Demon (lvl 108)",
+		"amount": "108",
+		"area": "Lava Maze",
+		"coords": "5685,630;5935,800",
+		"unlocks": {
+			"quests": [],
+			"shops": [],
+			"other": [
+				"Runite Ore",
+				"Steel Platebody Spawn",
+				"Earth Staff Spawn"
+			]
+		},
 		"notes": ""
 	}
 
