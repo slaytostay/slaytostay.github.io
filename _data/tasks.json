@@ -758,7 +758,7 @@
 	{
 		"task": "Lesser Demons",
 		"master": "Krystilia",
-		"monster": "Lesser Demon (lvl 108)",
+		"monster": "Lesser Demon (lvl 82)",
 		"amount": "108",
 		"area": "Lava Maze",
 		"coords": "5685,630;5935,800",
@@ -771,6 +771,15 @@
 				"Earth Staff Spawn"
 			]
 		},
+		"notes": ""
+	},
+	{
+		"task": "Greater Demons",
+		"master": "Krystilia",
+		"monster": "Lesser Demon (lvl 92)",
+		"amount": "108",
+		"area": "Demonic Ruins",
+		"coords": "5985,630;6235,800",
 		"notes": ""
 	}
 
