@@ -779,7 +779,16 @@
 		"monster": "Lesser Demon (lvl 92)",
 		"amount": "108",
 		"area": "Demonic Ruins",
-		"coords": "5985,630;6235,800",
+		"coords": "6390,620;6500,740",
+		"notes": ""
+	},
+	{
+		"task": "Ents",
+		"master": "Krystilia",
+		"monster": "Ent (lvl 86)",
+		"amount": "54",
+		"area": "Wilderness (lvl 19 obelisk)",
+		"coords": "6105,1205;6315,1365",
 		"notes": ""
 	}
 
