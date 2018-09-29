@@ -1,0 +1,128 @@
+---
+title: "Task Info"
+layout: public
+permalink: /task/
+---
+
+<script src='/assets/scripts/url-query.js'></script>
+<script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
+<style>
+.key { display: inline-block; width: 80px; font-weight: bold;}
+#nav-tasks {
+	text-align: center
+}
+</style>
+<h2>Task <span id="task-title-id">0</span>: <span id="task-title">Title</span></h2>
+<div id="nav-tasks">
+<span id="div-first">
+<a id="first"><<</a>&nbsp;&nbsp;
+<a id="prev"><</a>&nbsp;&nbsp;
+</span>
+<a id="curr">0</a>&nbsp;&nbsp;
+<span id="div-last">
+<a id="next">></a>&nbsp;&nbsp;
+<a id="last">>></a>
+</span>
+</div>
+</a>
+<h3>Task Info</h3>
+<span class="key">Task:</span><span class="value" id="task">None</span><br/>
+<span class="key">Master:</span><span class="value" id="master">None</span><br/>
+<span class="key">Monster:</span><span class="value" id="monster">None</span><br/>
+<span class="key">Amount:</span><span class="value" id="amount">None</span><br/>
+<span class="key">Area:</span><span class="value" id="area">None</span><br/>
+
+<div id="div-unlocks">
+<h3>Task Unlocks</h3>
+<span class="key">Quests:</span><span class="value" id="quests">None</span><br/>
+<span class="key">Shops:</span><span class="value" id="shops">None</span><br/>
+<span class="key">Other:</span><span class="value" id="other">None</span><br/>
+</div>
+
+<div id="div-notes">
+<h3>Notes</h3>
+<span class="value" id="notes">None</span>
+</div>
+
+<div id="div-map">
+<h3>Task Map</h3>
+<span class="value" id="map">None</span>
+</div>
+
+<script>
+
+var id = getParameterByName("id");
+
+function loadJson(file) {
+	$.getJSON(file, loadTask);
+}
+function getElem(e) {
+	return document.getElementById(e);
+}
+function wikiList(a) {
+	if (a.length < 1) return "None";
+	var url = "http://oldschoolrunescape.wikia.com/wiki/"
+	var result = "";
+	for (var i = 0; i < a.length; i++) {
+		var item = a[i];
+		var query = item.replace("'", "%27").replace(" ", "_");
+		var link = url + query;
+		result += "<a href=\"" + link + "\">"+item+"</a>";
+		if (i < (a.length-1)) {
+			result += ", ";
+		}
+	}
+	return result;
+}
+function loadTask(json) {
+	var task = json[id-1];
+
+	var url = "/task/?id=";
+	if (id > 1) {
+		getElem("first").href = url + "1";
+		getElem("prev").href = url + (parseInt(id)-1);
+	} else {
+		getElem("div-first").innerHTML = "";
+	}
+	getElem("curr").href = url + id;
+	getElem("curr").innerHTML = id;
+	if (id < json.length) {
+		getElem("last").href = url + json.length;
+		getElem("next").href = url + (parseInt(id)+1);
+	} else {
+		getElem("div-last").innerHTML = "";
+	}
+
+	getElem("task-title-id").innerHTML = id;
+	getElem("task-title").innerHTML = task.task;
+
+	getElem("task").innerHTML = task.task;
+	getElem("master").innerHTML = task.master;
+	getElem("monster").innerHTML = task.monster;
+	getElem("amount").innerHTML = task.amount;
+	getElem("area").innerHTML = task.area;
+
+	if (task.unlocks) {
+		getElem("quests").innerHTML = wikiList(task.unlocks.quests);
+		getElem("shops").innerHTML = wikiList(task.unlocks.shops);
+		getElem("other").innerHTML = task.unlocks.other;
+	} else {
+		getElem("div-unlocks").innerHTML = "";
+	}
+
+	if (task.notes && task.notes != "") {
+		getElem("notes").innerHTML = task.notes;
+	} else {
+		getElem("div-notes").innerHTML = "";
+	}
+
+	if (task.coords && task.coords != "") {
+		getElem("map").innerHTML = task.coords;
+	} else {
+		getElem("div-map").innerHTML = "";
+	}
+
+}
+loadJson("/_data/tasks.json");
+
+</script>
