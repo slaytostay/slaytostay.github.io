@@ -1,796 +1,873 @@
-[
-	{
-		"task": "Birds",
-		"master": "Turael",
-		"monster": "Seagull",
-		"amount": "35",
-		"area": "Port Sarim",
-		"coords": "5595,2515;5775,2775",
-		"unlocks": {
-			"quests": [
-				"Pirate's Treasure"
-			],
-			"shops": [
-				"Betty's Magic Emporium",
-				"Grum's Gold Exchange",
-				"Brian's Battleaxe Bazaar",
-				"Gerrant's Fishy Business",
-				"Wydin's Food Store",
-				"Trader Stan"
-			],
-			"other": []
-		},
-		"notes": ""
-	},
-	{
-		"task": "Spiders",
-		"master": "Turael",
-		"monster": "Spider (lvl 1)",
-		"amount": "17",
-		"area": "Lumbridge Castle Cellar",
-		"unlocks": {
-			"quests": [
-				"Death to the Dorgeshuun"
-			],
-			"shops": [
-				"Culinaromancer's Chest"
-			],
-			"other": []
-		},
-		"notes": ""
-	},
-	{
-		"task": "Monkeys",
-		"master": "Turael",
-		"monster": "Monkey (lvl 3)",
-		"amount": "31",
-		"area": "Brimhaven",
-		"coords": "4830,2685;5020,2865",
-		"unlocks": {
-			"quests": [
-				"Tribal Totem"
-			],
-			"shops": [
-				"Davon's Amulet Store",
-				"The Shrimp and Parrot"
-			],
-			"other": [
-				"Brimhaven Agility Arena",
-				"Brimhaven House Portal"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Goblins",
-		"master": "Turael",
-		"monster": "Goblin (lvl 5)",
-		"amount": "33",
-		"area": "Goblin Village",
-		"coords": "5365,1750;5500,1965",
-		"unlocks": {
-			"quests": [
-				"Goblin Diplomacy",
-				"Doric's Quest",
-				"Druidic Ritual"
-			],
-			"shops": [],
-			"other": [
-				"Mind Altar",
-				"Wine of Zamorak"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Cows",
-		"master": "Turael",
-		"monster": "Cow (lvl 2)",
-		"amount": "17",
-		"area": "East of Lumbridge",
-		"coords": "6260,2380;6380,2605",
-		"unlocks": {
-			"quests": [],
-			"shops": [],
-			"other": [
-				"Fishing Spots"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Ghosts",
-		"master": "Turael",
-		"monster": "Ghost (lvl 19)",
-		"amount": "48",
-		"area": "Catacombs of Kourend (South)",
-		"unlocks": {
-			"quests": [],
-			"shops": [],
-			"other": [
-				"Moss Giants",
-				"Cyclopses",
-				"Hill Giants"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Cows",
-		"master": "Turael",
-		"monster": "Cow (lvl 2)",
-		"amount": "30",
-		"area": "Farm South of Falador",
-		"coords": "5600,2330;5760,2480",
-		"unlocks": {
-			"quests": [],
-			"shops": [
-				"Sarah's Farming Shop"
-			],
-			"other": [
-				"Yew Trees"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Bats",
-		"master": "Turael",
-		"monster": "Bat (lvl 6)",
-		"amount": "39",
-		"area": "Arceuus House",
-		"coords": "1445,586;1945,790;1260,790;1775,920;1360,920;1775,1190",
-		"unlocks": {
-			"quests": [],
-			"shops": [
-				"Regath's Wares",
-				"Thyria's Wares",
-				"Filamina's Wares"
-			],
-			"other": [
-				"Arceuus Library",
-				"Dense Runestone Mine",
-				"Blood Altar",
-				"Soul Altar",
-				"Lectern"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Scorpions",
-		"master": "Turael",
-		"monster": "Scorpion (lvl 19)",
-		"amount": "16",
-		"area": "South of Al Kharid",
-		"coords": "6335,2760;6490,2900",
-		"unlocks": {
-			"quests": [
-				"Prince Ali Rescue",
-				"Shadow of the Storm"
-			],
-			"shops": [
-				"Karim's Kebabs"
-			],
-			"other": [
-				"Fishing Spot"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Birds",
-		"master": "Turael",
-		"monster": "Terrorbird (gnomes)",
-		"amount": "50",
-		"area": "Tree Gnome Stronghold (South)",
-		"coords": "3680,1910;4065,2155",
-		"unlocks": {
-			"quests": [
-				"The Eyes of Glouphrie"
-			],
-			"shops": [],
-			"other": [
-				"Gnome Stronghold Agility Course",
-				"Spinning Wheel",
-				"Flax",
-				"Magic Tree",
-				"Nieve"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Cave bugs",
-		"master": "Turael",
-		"monster": "Cave bug (lvl 6)",
-		"amount": "13",
-		"area": "Lumbridge Swamp Cave",
-		"unlocks": {
-			"quests": [
-				"Tears of Guthix"
-			],
-			"shops": [],
-			"other": []
-		},
-		"notes": ""
-	},
-	{
-		"task": "Kalphites",
-		"master": "Turael",
-		"monster": "Kalphite workers",
-		"amount": "40",
-		"area": "Kalphite Cave",
-		"notes": ""
-	},
-	{
-		"task": "Wolves",
-		"master": "Turael",
-		"monster": "Wolf (lvl 14)",
-		"amount": "40",
-		"area": "Stronghold of Security 1st Floor",
-		"unlocks": {
-			"quests": [],
-			"shops": [],
-			"other": [
-				"Gift of Peace"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Ice fiends",
-		"master": "Turael",
-		"monster": "Ice fiend (lvl 13)",
-		"amount": "20",
-		"area": "Ice Mountain",
-		"coords": "5535,1725;5670,2005",
-		"unlocks": {
-			"quests": [],
-			"shops": [
-				"Nulodion's Multicannon Parts"
-			],
-			"other": []
-		},
-		"notes": ""
-	},
-	{
-		"task": "Monkeys",
-		"master": "Turael",
-		"monster": "Monkey (lvl 3)",
-		"amount": "42",
-		"area": "Ardougne Zoo",
-		"coords": "4250,2375;4490,2525",
-		"unlocks": {
-			"quests": [
-				"Eagle's Peak",
-				"Cold War",
-				"Hazeel Cult",
-				"Sheep Herder"
-			],
-			"shops": [
-				"Aemad's Adventuring Supplies"
-			],
-			"other": [
-				"Ardougne Estate Agent",
-				"Pet Insurance Services"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Zombies",
-		"master": "Turael",
-		"monster": "Zombie (lvl 44)",
-		"amount": "24",
-		"area": "Stronghold of Security 2nd Floor",
-		"unlocks": {
-			"quests": [],
-			"shops": [],
-			"other": [
-				"Grain of Plenty"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Kalphite",
-		"master": "Turael",
-		"monster": "Kalphite Worker (lvl 28)",
-		"amount": "32",
-		"area": "Kalphite Hive",
-		"notes": "Kalphite Queen has to be unlocked by killing Kalphites in the lower part"
-	},
-	{
-		"task": "Dogs",
-		"master": "Turael",
-		"monster": "Guard Dog (lvl 44)",
-		"amount": "37",
-		"area": "Ardougne Mansion",
-		"coords": "4385,2285;4600,2445",
-		"unlocks": {
-			"quests": [],
-			"shops": [
-				"Zenesha's Plate Mail Body Shop"
-			],
-			"other": [
-				"Ardougne Marketplace",
-				"Ardougne Agility Course"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Bears",
-		"master": "Turael",
-		"monster": "Bear",
-		"amount": "32",
-		"area": "Varrock Palace",
-		"coords": "6165,1754;6305,1905",
-		"unlocks": {
-			"quests": [
-				"Shield of Arrav",
-				"Garden of Tranquility",
-				"Priest in Peril"
-			],
-			"shops": [],
-			"other": [
-				"Varrock Estate Agent"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Minotaurs",
-		"master": "Turael",
-		"monster": "Minotaur",
-		"amount": "19",
-		"area": "Stronghold of Security 1st Floor",
-		"notes": ""
-	},
-	{
-		"task": "Spider",
-		"master": "Turael",
-		"monster": "Spider (lvl 3)",
-		"amount": "22",
-		"area": "H.A.M. Hideout Entrance",
-		"coords": "5995,2480;6165,2720",
-		"unlocks": {
-			"quests": [
-				"Sheep Shearer",
-				"Lost City"
-			],
-			"shops": [],
-			"other": [
-				"H.A.M. Hideout"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Dogs",
-		"master": "Turael",
-		"monster": "Guard Dog (lvl 44)",
-		"amount": "39",
-		"area": "McGrubor's Wood",
-		"coords": "4385,1715;4630,1940",
-		"unlocks": {
-			"quests": [],
-			"shops": [],
-			"other": [
-				"Dwellberries",
-				"Maple Trees"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Minotaurs",
-		"master": "Turael",
-		"monster": "Minotaur",
-		"amount": "12",
-		"area": "Stronghold of Security 1st Floor",
-		"notes": ""
-	},
-	{
-		"task": "Spider",
-		"master": "Turael",
-		"monster": "Spider (lvl 3)",
-		"amount": "45",
-		"area": "Al Kharid Sorceres House",
-		"coords": "6460,2810;6565,2980",
-		"unlocks": {
-			"quests": [],
-			"shops": [
-				"Ranael's Super Skirt Store",
-				"Shantay Pass Shop"
-			],
-			"other": []
-		},
-		"notes": ""
-	},
-	{
-		"task": "Ice fiends",
-		"master": "Turael",
-		"monster": "Ice fiend (lvl 13)",
-		"amount": "20",
-		"area": "Ice Mountain",
-		"notes": ""
-	},
-	{
-		"task": "Cows",
-		"master": "Turael",
-		"monster": "Cow (lvl 2)",
-		"amount": "15",
-		"area": "North of Yanille",
-		"coords": "4205,2875;4480,3010",
-		"notes": ""
-	},
-	{
-		"task": "Bats",
-		"master": "Turael",
-		"monster": "Bat (lvl 6)",
-		"amount": "19",
-		"area": "Silvarea",
-		"coords": "6460,1775;6815,1955",
-		"unlocks": {
-			"quests": [
-				"A Soul's Bane",
-				"Rag and Bone Man",
-				"Devious Minds"
-			],
-			"shops": [],
-			"other": [
-				"Limestone Mine"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Ice fiends",
-		"master": "Turael",
-		"monster": "Ice fiend (lvl 13)",
-		"amount": "18",
-		"area": "Ice Mountain",
-		"notes": ""
-	},
-	{
-		"task": "Spiders",
-		"master": "Turael",
-		"monster": "Jungle spider (lvl 44)",
-		"amount": "44",
-		"area": "Tai Bwo Wannai",
-		"coords": "4855,2930;5065,3090",
-		"unlocks": {
-			"quests": [
-				"Jungle Potion",
-				"Tai Bwo Wannai Trio"
-			],
-			"shops": [
-				"Jiminua's Jungle Store"
-			],
-			"other": [
-				"Anvil"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Goblins",
-		"master": "Turael",
-		"monster": "Goblin (lvl 3)",
-		"amount": "29",
-		"area": "Rimmington",
-		"coords": "5410,2580;5585,2800",
-		"unlocks": {
-			"quests": [
-				"Witch's Potion"
-			],
-			"shops": [
-				"Rimmington General Store",
-				"Rommik's Crafty Supplies",
-				"Brian's Archery Supplies"
-			],
-			"other": [
-				"Rimmington Mine",
-				"Rimmington House Portal"
-			]
-		},
-		"notes": "Unlocks Rimmington"
-	},
-	{
-		"task": "Spiders",
-		"master": "Turael",
-		"monster": "Various spiders",
-		"amount": "16",
-		"area": "Varrock Sewer",
-		"unlocks": {
-			"quests": [],
-			"shops": [],
-			"other": [
-				"Bryophata's Lair"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Ice fiends",
-		"master": "Turael",
-		"monster": "Ice fiend (lvl 13)",
-		"amount": "14",
-		"area": "Ice Mountain",
-		"notes": ""
-	},
-	{
-		"task": "Cave bugs",
-		"master": "Turael",
-		"monster": "Cave bug (lvl 6)",
-		"amount": "11",
-		"area": "Lumbridge Swamp Cave",
-		"notes": ""
-	},
-	{
-		"task": "Kalphite",
-		"master": "Turael",
-		"monster": "Kalphite Worker (lvl 28)",
-		"amount": "18",
-		"area": "Kalphite Cave",
-		"notes": ""
-	},
-	{
-		"task": "Dogs",
-		"master": "Turael",
-		"monster": "Guard Dog (lvl 44)",
-		"amount": "40",
-		"area": "Kourend Castle",
-		"coords": "1345,1220;1560,1365",
-		"unlocks": {
-			"quests": [],
-			"shops": [
-				"Silk Shop",
-				"Silver Shop",
-				"Food Shop",
-				"Gem Shop"
-			],
-			"other": [
-				"Various Stalls"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Scorpions",
-		"master": "Turael",
-		"monster": "Scorpion (lvl 14)",
-		"amount": "44",
-		"area": "Dwarven Mine (South)",
-		"unlocks": {
-			"quests": [],
-			"shops": [],
-			"other": [
-				"Motherlode Mine"
-			]
-		},
-		"notes": "Unlocks Mining Guild if a dwarves task is done in the mine"
-	},
-	{
-		"task": "Dwarves",
-		"master": "Turael",
-		"monster": "Dwarf (lvl 14)",
-		"amount": "46",
-		"area": "Dwarven Mine (North)",
-		"unlocks": {
-			"quests": [],
-			"shops": [
-				"Nurmof's Pickaxe Shop",
-				"Drogo's Mining Emporium",
-				"Hura's Crossbow Shop",
-				"Dwarven Shopping Store"
-			],
-			"other": [
-				"Mining Guild"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Cave Crawlers",
-		"master": "Turael",
-		"monster": "Dwarf (lvl 23)",
-		"amount": "50",
-		"area": "Lumbridge Swamp Caves",
-		"notes": ""
-	},
-	{
-		"task": "Skeletons",
-		"master": "Turael",
-		"monster": "Skeleton (lvl 22)",
-		"amount": "21",
-		"area": "North of Edgeville",
-		"coords": "5775,1635;5940,1845",
-		"unlocks": {
-			"quests": [
-				"Enter the Abyss"
-			],
-			"shops": [
-				"Perdu",
-				"Edgeville General Store",
-				"Oziach's Armour",
-				"Mage of Zamorak"
-			],
-			"other": [
-				"Krystilia"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Banshees",
-		"master": "Turael",
-		"monster": "Banshee (lvl 23)",
-		"amount": "39",
-		"area": "Slayer Tower (Ground Floor)",
-		"coords": "6765,1550;6985,1740",
-		"notes": ""
-	},
-	{
-		"task": "Kalphites",
-		"master": "Turael",
-		"monster": "Kalphite Soldier (lvl 85)",
-		"amount": "33",
-		"area": "Kalphite Hives",
-		"notes": ""
-	},
-	{
-		"task": "Cows",
-		"master": "Turael",
-		"monster": "Cow (lvl 2)",
-		"amount": "34",
-		"area": "Crafting Guild",
-		"coords": "5285,2390;5440,2555",
-		"unlocks": {
-			"quests": [],
-			"shops": [],
-			"other": [
-				"Crafting Guild"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Cave Slimes",
-		"master": "Turael",
-		"monster": "Cave Slime (lvl 23)",
-		"amount": "34",
-		"area": "Lumbridge Swamp Caves",
-		"notes": ""
-	},
-	{
-		"task": "Skeletons",
-		"master": "Turael",
-		"monster": "Skeleton (lvl 25)",
-		"amount": "33",
-		"area": "Bone Yard",
-		"coords": "6110,1010;6475,1200",
-		"unlocks": {
-			"quests": [],
-			"shops": [],
-			"other": [
-				"Steel Platelegs Spawn"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Kalphites",
-		"master": "Turael",
-		"monster": "Kalphite Soldier (lvl 85)",
-		"amount": "44",
-		"area": "Kalphite Hives",
-		"notes": ""
-	},
-	{
-		"task": "Cave Slimes",
-		"master": "Turael",
-		"monster": "Cave Slime (lvl 23)",
-		"amount": "13",
-		"area": "Lumbridge Swamp Caves",
-		"notes": ""
-	},
-	{
-		"task": "Cave bugs",
-		"master": "Turael",
-		"monster": "Cave bug (lvl 6)",
-		"amount": "20",
-		"area": "Lumbridge Swamp Cave",
-		"notes": ""
-	},
-	{
-		"task": "Monkeys",
-		"master": "Turael",
-		"monster": "Monkey (lvl 3)",
-		"amount": "36",
-		"area": "North of Shilo Village",
-		"coords": "4980,3160;5225,3485",
-		"unlocks": {
-			"quests": [
-				"Shilo Village",
-				"One Small Favour"
-			],
-			"shops": [
-				"Shilo General Store",
-				"Fishing Shop"
-			],
-			"other": [
-				"Nature Altar",
-				"Duradel"
-			]
-		},
-		"notes": "Unlocks Shilo Village"
-	},
-	{
-		"task": "Dwarves",
-		"master": "Turael",
-		"monster": "Guard (lvl 14)",
-		"amount": "39",
-		"area": "Southwest of Coal Trucks",
-		"coords": "4180,1765;4385,2010",
-		"unlocks": {
-			"quests": [
-				"Dwarf Cannon"
-			],
-			"shops": [],
-			"other": [
-				"Coal Mine",
-				"Coal Trucks"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Mammoths",
-		"master": "Krystilia",
-		"monster": "Mammoth (lvl 80)",
-		"amount": "124",
-		"area": "Wilderness (lvl 13 obelisk)",
-		"coords": "5930,1415;6135,1600",
-		"notes": ""
-	},
-	{
-		"task": "Lesser Demons",
-		"master": "Krystilia",
-		"monster": "Lesser Demon (lvl 82)",
-		"amount": "108",
-		"area": "Lava Maze",
-		"coords": "5685,630;5935,800",
-		"unlocks": {
-			"quests": [],
-			"shops": [],
-			"other": [
-				"Runite Ore",
-				"Steel Platebody Spawn",
-				"Earth Staff Spawn"
-			]
-		},
-		"notes": ""
-	},
-	{
-		"task": "Greater Demons",
-		"master": "Krystilia",
-		"monster": "Lesser Demon (lvl 92)",
-		"amount": "108",
-		"area": "Demonic Ruins",
-		"coords": "6390,620;6500,740",
-		"notes": ""
-	},
-	{
-		"task": "Ents",
-		"master": "Krystilia",
-		"monster": "Ent (lvl 86)",
-		"amount": "54",
-		"area": "Wilderness (lvl 19 obelisk)",
-		"coords": "6105,1205;6315,1365",
-		"notes": ""
-	}
+{
+  "52":{
+    "task":"Ents",
+    "master":"Krystilia",
+    "monster":"Ent (lvl 86)",
+    "amount":"54",
+    "area":"Wilderness (lvl 19 obelisk)",
+    "coords":"6105,1205;6315,1365",
+    "notes":""
+  },
+  "51":{
+    "task":"Greater Demons",
+    "master":"Krystilia",
+    "monster":"Lesser Demon (lvl 92)",
+    "amount":"108",
+    "area":"Demonic Ruins",
+    "coords":"6390,620;6500,740",
+    "notes":""
+  },
+  "50":{
+    "task":"Lesser Demons",
+    "master":"Krystilia",
+    "monster":"Lesser Demon (lvl 82)",
+    "amount":"108",
+    "area":"Lava Maze",
+    "coords":"5685,630;5935,800",
+    "unlocks":{
+      "quests":[
 
-]
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Runite Ore",
+        "Steel Platebody Spawn",
+        "Earth Staff Spawn"
+      ]
+    },
+    "notes":""
+  },
+  "49":{
+    "task":"Mammoths",
+    "master":"Krystilia",
+    "monster":"Mammoth (lvl 80)",
+    "amount":"124",
+    "area":"Wilderness (lvl 13 obelisk)",
+    "coords":"5930,1415;6135,1600",
+    "notes":""
+  },
+  "48":{
+    "task":"Dwarves",
+    "master":"Turael",
+    "monster":"Guard (lvl 14)",
+    "amount":"39",
+    "area":"Southwest of Coal Trucks",
+    "coords":"4180,1765;4385,2010",
+    "unlocks":{
+      "quests":[
+        "Dwarf Cannon"
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Coal Mine",
+        "Coal Trucks"
+      ]
+    },
+    "notes":""
+  },
+  "47":{
+    "task":"Monkeys",
+    "master":"Turael",
+    "monster":"Monkey (lvl 3)",
+    "amount":"36",
+    "area":"North of Shilo Village",
+    "coords":"4980,3160;5225,3485",
+    "unlocks":{
+      "quests":[
+        "Shilo Village",
+        "One Small Favour"
+      ],
+      "shops":[
+        "Shilo General Store",
+        "Fishing Shop"
+      ],
+      "other":[
+        "Nature Altar",
+        "Duradel"
+      ]
+    },
+    "notes":"Unlocks Shilo Village"
+  },
+  "46":{
+    "task":"Cave bugs",
+    "master":"Turael",
+    "monster":"Cave bug (lvl 6)",
+    "amount":"20",
+    "area":"Lumbridge Swamp Cave",
+    "notes":""
+  },
+  "45":{
+    "task":"Cave slimes",
+    "master":"Turael",
+    "monster":"Cave slime (lvl 23)",
+    "amount":"13",
+    "area":"Lumbridge Swamp Caves",
+    "notes":""
+  },
+  "44":{
+    "task":"Kalphites",
+    "master":"Turael",
+    "monster":"Kalphite Soldier (lvl 85)",
+    "amount":"44",
+    "area":"Kalphite Hives",
+    "notes":""
+  },
+  "43":{
+    "task":"Skeletons",
+    "master":"Turael",
+    "monster":"Skeleton (lvl 25)",
+    "amount":"33",
+    "area":"Bone Yard",
+    "coords":"6110,1010;6475,1200",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Steel Platelegs Spawn"
+      ]
+    },
+    "notes":""
+  },
+  "42":{
+    "task":"Cave slimes",
+    "master":"Turael",
+    "monster":"Cave slime (lvl 23)",
+    "amount":"34",
+    "area":"Lumbridge Swamp Caves",
+    "notes":""
+  },
+  "41":{
+    "task":"Cows",
+    "master":"Turael",
+    "monster":"Cow (lvl 2)",
+    "amount":"34",
+    "area":"Crafting Guild",
+    "coords":"5285,2390;5440,2555",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Crafting Guild"
+      ]
+    },
+    "notes":""
+  },
+  "40":{
+    "task":"Kalphites",
+    "master":"Turael",
+    "monster":"Kalphite Soldier (lvl 85)",
+    "amount":"33",
+    "area":"Kalphite Hives",
+    "notes":""
+  },
+  "39":{
+    "task":"Banshees",
+    "master":"Turael",
+    "monster":"Banshee (lvl 23)",
+    "amount":"39",
+    "area":"Slayer Tower (Ground Floor)",
+    "coords":"6765,1550;6985,1740",
+    "notes":""
+  },
+  "38":{
+    "task":"Skeletons",
+    "master":"Turael",
+    "monster":"Skeleton (lvl 22)",
+    "amount":"21",
+    "area":"North of Edgeville",
+    "coords":"5775,1635;5940,1845",
+    "unlocks":{
+      "quests":[
+        "Enter the Abyss"
+      ],
+      "shops":[
+        "Perdu",
+        "Edgeville General Store",
+        "Oziach's Armour",
+        "Mage of Zamorak"
+      ],
+      "other":[
+        "Krystilia"
+      ]
+    },
+    "notes":""
+  },
+  "37":{
+    "task":"Cave crawlers",
+    "master":"Turael",
+    "monster":"Cave crawler (lvl 23)",
+    "amount":"50",
+    "area":"Lumbridge Swamp Caves",
+    "notes":""
+  },
+  "36":{
+    "task":"Dwarves",
+    "master":"Turael",
+    "monster":"Dwarf (lvl 14)",
+    "amount":"46",
+    "area":"Dwarven Mine (North)",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+        "Nurmof's Pickaxe Shop",
+        "Drogo's Mining Emporium",
+        "Hura's Crossbow Shop",
+        "Dwarven Shopping Store"
+      ],
+      "other":[
+        "Mining Guild"
+      ]
+    },
+    "notes":""
+  },
+  "35":{
+    "task":"Scorpions",
+    "master":"Turael",
+    "monster":"Scorpion (lvl 14)",
+    "amount":"44",
+    "area":"Dwarven Mine (South)",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Motherlode Mine"
+      ]
+    },
+    "notes":"Unlocks Mining Guild if a dwarves task is done in the mine"
+  },
+  "34":{
+    "task":"Dogs",
+    "master":"Turael",
+    "monster":"Guard Dog (lvl 44)",
+    "amount":"40",
+    "area":"Kourend Castle",
+    "coords":"1345,1220;1560,1365",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+        "Silk Shop",
+        "Silver Shop",
+        "Food Shop",
+        "Gem Shop"
+      ],
+      "other":[
+        "Various Stalls"
+      ]
+    },
+    "notes":""
+  },
+  "33":{
+    "task":"Kalphites",
+    "master":"Turael",
+    "monster":"Kalphite Worker (lvl 28)",
+    "amount":"18",
+    "area":"Kalphite Cave",
+    "notes":""
+  },
+  "32":{
+    "task":"Cave bugs",
+    "master":"Turael",
+    "monster":"Cave bug (lvl 6)",
+    "amount":"11",
+    "area":"Lumbridge Swamp Cave",
+    "notes":""
+  },
+  "31":{
+    "task":"Ice fiends",
+    "master":"Turael",
+    "monster":"Ice fiend (lvl 13)",
+    "amount":"14",
+    "area":"Ice Mountain",
+    "notes":""
+  },
+  "30":{
+    "task":"Spiders",
+    "master":"Turael",
+    "monster":"Various spiders",
+    "amount":"16",
+    "area":"Varrock Sewer",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Bryophata's Lair"
+      ]
+    },
+    "notes":""
+  },
+  "29":{
+    "task":"Goblins",
+    "master":"Turael",
+    "monster":"Goblin (lvl 3)",
+    "amount":"29",
+    "area":"Rimmington",
+    "coords":"5410,2580;5585,2800",
+    "unlocks":{
+      "quests":[
+        "Witch's Potion"
+      ],
+      "shops":[
+        "Rimmington General Store",
+        "Rommik's Crafty Supplies",
+        "Brian's Archery Supplies"
+      ],
+      "other":[
+        "Rimmington Mine",
+        "Rimmington House Portal"
+      ]
+    },
+    "notes":"Unlocks Rimmington"
+  },
+  "28":{
+    "task":"Spiders",
+    "master":"Turael",
+    "monster":"Jungle spider (lvl 44)",
+    "amount":"44",
+    "area":"Tai Bwo Wannai",
+    "coords":"4855,2930;5065,3090",
+    "unlocks":{
+      "quests":[
+        "Jungle Potion",
+        "Tai Bwo Wannai Trio"
+      ],
+      "shops":[
+        "Jiminua's Jungle Store"
+      ],
+      "other":[
+        "Anvil"
+      ]
+    },
+    "notes":""
+  },
+  "27":{
+    "task":"Ice fiends",
+    "master":"Turael",
+    "monster":"Ice fiend (lvl 13)",
+    "amount":"18",
+    "area":"Ice Mountain",
+    "notes":""
+  },
+  "26":{
+    "task":"Bats",
+    "master":"Turael",
+    "monster":"Bat (lvl 6)",
+    "amount":"19",
+    "area":"Silvarea",
+    "coords":"6460,1775;6815,1955",
+    "unlocks":{
+      "quests":[
+        "A Soul's Bane",
+        "Rag and Bone Man",
+        "Devious Minds"
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Limestone Mine"
+      ]
+    },
+    "notes":""
+  },
+  "25":{
+    "task":"Cows",
+    "master":"Turael",
+    "monster":"Cow (lvl 2)",
+    "amount":"15",
+    "area":"North of Yanille",
+    "coords":"4205,2875;4480,3010",
+    "notes":""
+  },
+  "24":{
+    "task":"Ice fiends",
+    "master":"Turael",
+    "monster":"Ice fiend (lvl 13)",
+    "amount":"20",
+    "area":"Ice Mountain",
+    "notes":""
+  },
+  "23":{
+    "task":"Spiders",
+    "master":"Turael",
+    "monster":"Spider (lvl 3)",
+    "amount":"45",
+    "area":"Al Kharid Sorceres House",
+    "coords":"6460,2810;6565,2980",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+        "Ranael's Super Skirt Store",
+        "Shantay Pass Shop"
+      ],
+      "other":[
+
+      ]
+    },
+    "notes":""
+  },
+  "22":{
+    "task":"Minotaurs",
+    "master":"Turael",
+    "monster":"Minotaur",
+    "amount":"12",
+    "area":"Stronghold of Security 1st Floor",
+    "notes":""
+  },
+  "21":{
+    "task":"Dogs",
+    "master":"Turael",
+    "monster":"Guard Dog (lvl 44)",
+    "amount":"39",
+    "area":"McGrubor's Wood",
+    "coords":"4385,1715;4630,1940",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Dwellberries",
+        "Maple Trees"
+      ]
+    },
+    "notes":""
+  },
+  "20":{
+    "task":"Spiders",
+    "master":"Turael",
+    "monster":"Spider (lvl 3)",
+    "amount":"22",
+    "area":"H.A.M. Hideout Entrance",
+    "coords":"5995,2480;6165,2720",
+    "unlocks":{
+      "quests":[
+        "Sheep Shearer",
+        "Lost City"
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "H.A.M. Hideout"
+      ]
+    },
+    "notes":""
+  },
+  "19":{
+    "task":"Minotaurs",
+    "master":"Turael",
+    "monster":"Minotaur",
+    "amount":"19",
+    "area":"Stronghold of Security 1st Floor",
+    "notes":""
+  },
+  "18":{
+    "task":"Bears",
+    "master":"Turael",
+    "monster":"Bear",
+    "amount":"32",
+    "area":"Varrock Palace",
+    "coords":"6165,1754;6305,1905",
+    "unlocks":{
+      "quests":[
+        "Shield of Arrav",
+        "Garden of Tranquility",
+        "Priest in Peril"
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Varrock Estate Agent"
+      ]
+    },
+    "notes":""
+  },
+  "17":{
+    "task":"Dogs",
+    "master":"Turael",
+    "monster":"Guard Dog (lvl 44)",
+    "amount":"37",
+    "area":"Ardougne Mansion",
+    "coords":"4385,2285;4600,2445",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+        "Zenesha's Plate Mail Body Shop"
+      ],
+      "other":[
+        "Ardougne Marketplace",
+        "Ardougne Agility Course"
+      ]
+    },
+    "notes":""
+  },
+  "16":{
+    "task":"Kalphites",
+    "master":"Turael",
+    "monster":"Kalphite Worker (lvl 28)",
+    "amount":"32",
+    "area":"Kalphite Hive",
+    "notes":"Kalphite Queen has to be unlocked by killing Kalphites in the lower part"
+  },
+  "15":{
+    "task":"Zombies",
+    "master":"Turael",
+    "monster":"Zombie (lvl 44)",
+    "amount":"24",
+    "area":"Stronghold of Security 2nd Floor",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Grain of Plenty"
+      ]
+    },
+    "notes":""
+  },
+  "14":{
+    "task":"Monkeys",
+    "master":"Turael",
+    "monster":"Monkey (lvl 3)",
+    "amount":"42",
+    "area":"Ardougne Zoo",
+    "coords":"4250,2375;4490,2525",
+    "unlocks":{
+      "quests":[
+        "Eagle's Peak",
+        "Cold War",
+        "Hazeel Cult",
+        "Sheep Herder"
+      ],
+      "shops":[
+        "Aemad's Adventuring Supplies"
+      ],
+      "other":[
+        "Ardougne Estate Agent",
+        "Pet Insurance Services"
+      ]
+    },
+    "notes":""
+  },
+  "13":{
+    "task":"Ice fiends",
+    "master":"Turael",
+    "monster":"Ice fiend (lvl 13)",
+    "amount":"20",
+    "area":"Ice Mountain",
+    "coords":"5535,1725;5670,2005",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+        "Nulodion's Multicannon Parts"
+      ],
+      "other":[
+
+      ]
+    },
+    "notes":""
+  },
+  "12":{
+    "task":"Wolves",
+    "master":"Turael",
+    "monster":"Wolf (lvl 14)",
+    "amount":"40",
+    "area":"Stronghold of Security 1st Floor",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Gift of Peace"
+      ]
+    },
+    "notes":""
+  },
+  "11":{
+    "task":"Kalphites",
+    "master":"Turael",
+    "monster":"Kalphite workers",
+    "amount":"40",
+    "area":"Kalphite Cave",
+    "notes":""
+  },
+  "10":{
+    "task":"Cave bugs",
+    "master":"Turael",
+    "monster":"Cave bug (lvl 6)",
+    "amount":"13",
+    "area":"Lumbridge Swamp Cave",
+    "unlocks":{
+      "quests":[
+        "Tears of Guthix"
+      ],
+      "shops":[
+
+      ],
+      "other":[
+
+      ]
+    },
+    "notes":""
+  },
+  "9":{
+    "task":"Birds",
+    "master":"Turael",
+    "monster":"Terrorbird (gnomes)",
+    "amount":"50",
+    "area":"Tree Gnome Stronghold (South)",
+    "coords":"3680,1910;4065,2155",
+    "unlocks":{
+      "quests":[
+        "The Eyes of Glouphrie"
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Gnome Stronghold Agility Course",
+        "Spinning Wheel",
+        "Flax",
+        "Magic Tree",
+        "Nieve"
+      ]
+    },
+    "notes":""
+  },
+  "8":{
+    "task":"Scorpions",
+    "master":"Turael",
+    "monster":"Scorpion (lvl 19)",
+    "amount":"16",
+    "area":"South of Al Kharid",
+    "coords":"6335,2760;6490,2900",
+    "unlocks":{
+      "quests":[
+        "Prince Ali Rescue",
+        "Shadow of the Storm"
+      ],
+      "shops":[
+        "Karim's Kebabs"
+      ],
+      "other":[
+        "Fishing Spot"
+      ]
+    },
+    "notes":""
+  },
+  "7":{
+    "task":"Bats",
+    "master":"Turael",
+    "monster":"Bat (lvl 6)",
+    "amount":"39",
+    "area":"Arceuus House",
+    "coords":"1445,586;1945,790;1260,790;1775,920;1360,920;1775,1190",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+        "Regath's Wares",
+        "Thyria's Wares",
+        "Filamina's Wares"
+      ],
+      "other":[
+        "Arceuus Library",
+        "Dense Runestone Mine",
+        "Blood Altar",
+        "Soul Altar",
+        "Lectern"
+      ]
+    },
+    "notes":""
+  },
+  "6":{
+    "task":"Cows",
+    "master":"Turael",
+    "monster":"Cow (lvl 2)",
+    "amount":"30",
+    "area":"Farm South of Falador",
+    "coords":"5600,2330;5760,2480",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+        "Sarah's Farming Shop"
+      ],
+      "other":[
+        "Yew Trees"
+      ]
+    },
+    "notes":""
+  },
+  "5":{
+    "task":"Ghosts",
+    "master":"Turael",
+    "monster":"Ghost (lvl 19)",
+    "amount":"48",
+    "area":"Catacombs of Kourend (South)",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Moss Giants",
+        "Cyclopses",
+        "Hill Giants"
+      ]
+    },
+    "notes":""
+  },
+  "4":{
+    "task":"Cows",
+    "master":"Turael",
+    "monster":"Cow (lvl 2)",
+    "amount":"17",
+    "area":"East of Lumbridge",
+    "coords":"6260,2380;6380,2605",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Fishing Spots"
+      ]
+    },
+    "notes":""
+  },
+  "3":{
+    "task":"Goblins",
+    "master":"Turael",
+    "monster":"Goblin (lvl 5)",
+    "amount":"33",
+    "area":"Goblin Village",
+    "coords":"5365,1750;5500,1965",
+    "unlocks":{
+      "quests":[
+        "Goblin Diplomacy",
+        "Doric's Quest",
+        "Druidic Ritual"
+      ],
+      "shops":[
+
+      ],
+      "other":[
+        "Mind Altar",
+        "Wine of Zamorak"
+      ]
+    },
+    "notes":""
+  },
+  "2":{
+    "task":"Monkeys",
+    "master":"Turael",
+    "monster":"Monkey (lvl 3)",
+    "amount":"31",
+    "area":"Brimhaven",
+    "coords":"4830,2685;5020,2865",
+    "unlocks":{
+      "quests":[
+        "Tribal Totem"
+      ],
+      "shops":[
+        "Davon's Amulet Store",
+        "The Shrimp and Parrot"
+      ],
+      "other":[
+        "Brimhaven Agility Arena",
+        "Brimhaven House Portal"
+      ]
+    },
+    "notes":""
+  },
+  "1":{
+    "task":"Spiders",
+    "master":"Turael",
+    "monster":"Spider (lvl 1)",
+    "amount":"17",
+    "area":"Lumbridge Castle Cellar",
+    "unlocks":{
+      "quests":[
+        "Death to the Dorgeshuun"
+      ],
+      "shops":[
+        "Culinaromancer's Chest"
+      ],
+      "other":[
+
+      ]
+    },
+    "notes":""
+  },
+  "0":{
+    "task":"Birds",
+    "master":"Turael",
+    "monster":"Seagull",
+    "amount":"35",
+    "area":"Port Sarim",
+    "coords":"5595,2515;5775,2775",
+    "unlocks":{
+      "quests":[
+        "Pirate's Treasure"
+      ],
+      "shops":[
+        "Betty's Magic Emporium",
+        "Grum's Gold Exchange",
+        "Brian's Battleaxe Bazaar",
+        "Gerrant's Fishy Business",
+        "Wydin's Food Store",
+        "Trader Stan"
+      ],
+      "other":[
+
+      ]
+    },
+    "notes":""
+  }
+}

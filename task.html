@@ -60,8 +60,9 @@ function getElem(e) {
 	return document.getElementById(e);
 }
 function wikiList(a) {
+	console.log(a);
 	if (a.length < 1) return "None";
-	var url = "http://oldschoolrunescape.wikia.com/wiki/"
+	var url = "http://oldschool.runescape.wiki/w/"
 	var result = "";
 	for (var i = 0; i < a.length; i++) {
 		var item = a[i];
@@ -86,8 +87,8 @@ function loadTask(json) {
 	}
 	getElem("curr").href = url + id;
 	getElem("curr").innerHTML = id;
-	if (id < json.length) {
-		getElem("last").href = url + json.length;
+	if (id < Object.keys(json).length) {
+		getElem("last").href = url + Object.keys(json).length;
 		getElem("next").href = url + (parseInt(id)+1);
 	} else {
 		getElem("div-last").innerHTML = "";
@@ -105,7 +106,12 @@ function loadTask(json) {
 	if (task.unlocks) {
 		getElem("quests").innerHTML = wikiList(task.unlocks.quests);
 		getElem("shops").innerHTML = wikiList(task.unlocks.shops);
-		getElem("other").innerHTML = task.unlocks.other;
+		if (task.unlocks.other && task.unlocks.other.length > 0) {
+			var str = String(task.unlocks.other);
+			getElem("other").innerHTML = str.replace(/,/g, ", ");
+		} else {
+			getElem("other").innerHTML = "None";
+		}
 	} else {
 		getElem("div-unlocks").innerHTML = "";
 	}
