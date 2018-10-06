@@ -31,7 +31,7 @@ function generateMap(json) {
 	var layerAreas = layers.group().attr({class:"layer-areas"});
 	var labels = layerAreas.group().attr({class:"labels", fill:"white"});
 	var areas = layerAreas.group().attr({class:"areas", style:"mix-blend-mode: overlay;", fill:"white"})
-	for (var i = 0; i < json.length; i++) {
+	for (var i = 0; i < Object.keys(json).length; i++) {
 
 		var area = json[i];
 		if (!area["coords"]) continue;
