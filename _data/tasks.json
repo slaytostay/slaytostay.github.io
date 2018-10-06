@@ -93,17 +93,17 @@
     "notes":"Unlocks Shilo Village"
   },
   "46":{
-    "task":"Cave bugs",
+    "task":"Cave Bugs",
     "master":"Turael",
-    "monster":"Cave bug (lvl 6)",
+    "monster":"Cave Bug (lvl 6)",
     "amount":"20",
     "area":"Lumbridge Swamp Cave",
     "notes":""
   },
   "45":{
-    "task":"Cave slimes",
+    "task":"Cave Slimes",
     "master":"Turael",
-    "monster":"Cave slime (lvl 23)",
+    "monster":"Cave Slime (lvl 23)",
     "amount":"13",
     "area":"Lumbridge Swamp Caves",
     "notes":""
@@ -137,9 +137,9 @@
     "notes":""
   },
   "42":{
-    "task":"Cave slimes",
+    "task":"Cave Slimes",
     "master":"Turael",
-    "monster":"Cave slime (lvl 23)",
+    "monster":"Cave Slime (lvl 23)",
     "amount":"34",
     "area":"Lumbridge Swamp Caves",
     "notes":""
@@ -205,9 +205,9 @@
     "notes":""
   },
   "37":{
-    "task":"Cave crawlers",
+    "task":"Cave Crawlers",
     "master":"Turael",
-    "monster":"Cave crawler (lvl 23)",
+    "monster":"Cave Crawler (lvl 23)",
     "amount":"50",
     "area":"Lumbridge Swamp Caves",
     "notes":""
@@ -285,17 +285,17 @@
     "notes":""
   },
   "32":{
-    "task":"Cave bugs",
+    "task":"Cave Bugs",
     "master":"Turael",
-    "monster":"Cave bug (lvl 6)",
+    "monster":"Cave Bug (lvl 6)",
     "amount":"11",
     "area":"Lumbridge Swamp Cave",
     "notes":""
   },
   "31":{
-    "task":"Ice fiends",
+    "task":"Ice Fiends",
     "master":"Turael",
-    "monster":"Ice fiend (lvl 13)",
+    "monster":"Ice Fiend (lvl 13)",
     "amount":"14",
     "area":"Ice Mountain",
     "notes":""
@@ -345,7 +345,7 @@
   "28":{
     "task":"Spiders",
     "master":"Turael",
-    "monster":"Jungle spider (lvl 44)",
+    "monster":"Jungle Spider (lvl 44)",
     "amount":"44",
     "area":"Tai Bwo Wannai",
     "coords":"4855,2930;5065,3090",
@@ -364,9 +364,9 @@
     "notes":""
   },
   "27":{
-    "task":"Ice fiends",
+    "task":"Ice Fiends",
     "master":"Turael",
-    "monster":"Ice fiend (lvl 13)",
+    "monster":"Ice Fiend (lvl 13)",
     "amount":"18",
     "area":"Ice Mountain",
     "notes":""
@@ -403,9 +403,9 @@
     "notes":""
   },
   "24":{
-    "task":"Ice fiends",
+    "task":"Ice Fiends",
     "master":"Turael",
-    "monster":"Ice fiend (lvl 13)",
+    "monster":"Ice Fiend (lvl 13)",
     "amount":"20",
     "area":"Ice Mountain",
     "notes":""
@@ -584,9 +584,9 @@
     "notes":""
   },
   "13":{
-    "task":"Ice fiends",
+    "task":"Ice Fiends",
     "master":"Turael",
-    "monster":"Ice fiend (lvl 13)",
+    "monster":"Ice Fiend (lvl 13)",
     "amount":"20",
     "area":"Ice Mountain",
     "coords":"5535,1725;5670,2005",
@@ -625,15 +625,15 @@
   "11":{
     "task":"Kalphites",
     "master":"Turael",
-    "monster":"Kalphite workers",
+    "monster":"Kalphite Worker (lvl 28)",
     "amount":"40",
     "area":"Kalphite Cave",
     "notes":""
   },
   "10":{
-    "task":"Cave bugs",
+    "task":"Cave Bugs",
     "master":"Turael",
-    "monster":"Cave bug (lvl 6)",
+    "monster":"Cave Bug (lvl 6)",
     "amount":"13",
     "area":"Lumbridge Swamp Cave",
     "unlocks":{
@@ -652,7 +652,7 @@
   "9":{
     "task":"Birds",
     "master":"Turael",
-    "monster":"Terrorbird (gnomes)",
+    "monster":"Terrorbird (lvl 28)",
     "amount":"50",
     "area":"Tree Gnome Stronghold (South)",
     "coords":"3680,1910;4065,2155",
@@ -848,7 +848,7 @@
   "0":{
     "task":"Birds",
     "master":"Turael",
-    "monster":"Seagull",
+    "monster":"Seagull (lvl 2)",
     "amount":"35",
     "area":"Port Sarim",
     "coords":"5595,2515;5775,2775",
