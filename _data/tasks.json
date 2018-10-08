@@ -1,4 +1,23 @@
 {
+  "55":{
+    "task":"Desert Lizards",
+    "master":"Turael",
+    "monster":"Desert Lizard (lvl 24)",
+    "amount":"23",
+    "area":"Nardah",
+    "unlocks":{
+      "quests":[
+        
+      ],
+      "shops":[
+        
+      ],
+      "other":[
+        
+      ]
+    },
+    "notes":""
+  },
   "54":{
     "task":"Crawling Hands",
     "master":"Turael",
