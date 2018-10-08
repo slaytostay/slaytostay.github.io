@@ -1,4 +1,25 @@
 {
+  "53":{
+    "task":"Monkeys",
+    "master":"Turael",
+    "monster":"Monkey (lvl 3)",
+    "amount":"49",
+    "area":"Musa Point",
+    "coords":"5171,2725;5460,2920",
+    "unlocks":{
+      "quests":[
+        
+      ],
+      "shops":[
+        "Karamja General Store",
+        "Karamja Wines, Spirits, and Beers"
+      ],
+      "other":[
+        "Fishing Spots"
+      ]
+    },
+    "notes":""
+  },
   "52":{
     "task":"Ents",
     "master":"Krystilia",
