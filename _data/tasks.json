@@ -1,4 +1,12 @@
 {
+  "58":{
+    "task":"Spiders",
+    "master":"Turael",
+    "monster":"Spider (lvl 1)",
+    "amount":"32",
+    "area":"",
+    "notes":""
+  },
   "57":{
     "task":"Monkeys",
     "master":"Turael",
