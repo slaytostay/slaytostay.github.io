@@ -1,4 +1,34 @@
 {
+  "56":{
+    "task":"Goblins",
+    "master":"Turael",
+    "monster":"Goblin (lvl 2)",
+    "amount":"19",
+    "area":"Lumbridge & Draynor",
+    "coords":"5780,2300;6375,2730",
+    "unlocks":{
+      "quests":[
+        "Cook's Assistant",
+        "Recipe for Disaster",
+        "The Restless Ghost",
+        "Rune Mysteries",
+        "The Lost Tribe",
+        "A Fairy Tale Part I - Growing Pains",
+        "A Fairy Tale Part II - Cure a Queen",
+        "Vampire Slayer",
+        "Ernest the Chicken"        
+      ],
+      "shops":[
+        "Bob's Brilliant Axes",
+        "Diango",
+        "Fortunato"
+      ],
+      "other":[
+        "Aggie"
+      ]
+    },
+    "notes":"Unlock Lumbridge Castle and Draynor Village"
+  }
   "55":{
     "task":"Desert Lizards",
     "master":"Turael",
