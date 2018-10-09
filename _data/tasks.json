@@ -4,19 +4,19 @@
     "master":"Turael",
     "monster":"Desert Lizard (lvl 24)",
     "amount":"23",
-    "area":"Nardah",
+    "area":"East of Pollnivneach",
     "unlocks":{
       "quests":[
         
       ],
       "shops":[
-        
+        "Ali the Kebab seller"
       ],
       "other":[
-        
+        "Pollnivneach House Portal"
       ]
     },
-    "notes":""
+    "notes":"Unlocks Pollnivneach"
   },
   "54":{
     "task":"Crawling Hands",
