@@ -28,13 +28,14 @@
       ]
     },
     "notes":"Unlock Lumbridge Castle and Draynor Village"
-  }
+  },
   "55":{
     "task":"Desert Lizards",
     "master":"Turael",
     "monster":"Desert Lizard (lvl 24)",
     "amount":"23",
     "area":"East of Pollnivneach",
+    "coords":"6570,3025;6935,3485",
     "unlocks":{
       "quests":[
         
