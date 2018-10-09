@@ -1,4 +1,12 @@
 {
+  "57":{
+    "task":"Monkeys",
+    "master":"Turael",
+    "monster":"Monkey (lvl 3)",
+    "amount":"34",
+    "area":"Karamja",
+    "notes":""
+  },
   "56":{
     "task":"Goblins",
     "master":"Turael",
