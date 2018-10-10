@@ -1,4 +1,22 @@
 {
+  "60":{
+    "task":"Dogs",
+    "master":"Turael",
+    "monster":"Guard Dog (lvl 44)",
+    "amount":"43",
+    "area":"",
+    "unlocks":{
+      "quests":[
+
+      ],
+      "shops":[
+        
+      ],
+      "other":[
+        
+      ]
+    },
+    "notes":""
   "59":{
     "task":"Banshees",
     "master":"Turael",
