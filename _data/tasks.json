@@ -1,4 +1,12 @@
 {
+  "59":{
+    "task":"Banshees",
+    "master":"Turael",
+    "monster":"Banshee (lvl 23)",
+    "amount":"38",
+    "area":"Slayer Tower (Ground Floor)",
+    "notes":""
+  },
   "58":{
     "task":"Spiders",
     "master":"Turael",
