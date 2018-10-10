@@ -33,16 +33,16 @@ permalink: /rules/
 
 ### 3. Unlocked Areas
 1. The unlocked area is based on the place where the slayer task is done.
-1. All content in render distance of the spawn positions of the assigned monster in that area is unlocked.
+1. All content within render distance of the spawn positions of the assigned monster in that area is unlocked.
 1. All content within reasonable boundaries in the area is unlocked.
-	* There are no objective rules about what an area is. It is fine, as long as it is reasonable and the slayer monster spawns there.
-1. Any building including all floors and underground areas are unlocked as long as there are no other slayer monsters there.
+	* There are no objective rules about what an area is. The idea is that the player has to earn his right to stay in the area by slaying the monsters there.
+1. All buildings including all floors and underground areas are unlocked as long as there are no other slayer monsters there.
 
 ### 4. Slayer Masters
 1. To unlock Krystilia:
 	- [x] &nbsp;Complete a skeleton task North of Edgeville.
 1. To unlock Mazchna:
-	- [ ] &nbsp;Complete a werewolves task in Canafis.
+	- [ ] &nbsp;Complete a vampyre task in the Haunted Woods.
 1. To unlock Vannaka:
 	- [ ] &nbsp;Complete any task in the Edgeville Dungeon.
 1. To unlock Chaeldar:
