@@ -4,7 +4,19 @@
     "master":"Turael",
     "monster":"Spider (lvl 1)",
     "amount":"32",
-    "area":"",
+    "area":"North of Sand Crabs",
+    "coords":"1570,1745;1870,1960",
+    "unlocks":{
+      "quests":[
+        
+      ],
+      "shops":[
+        
+      ],
+      "other":[
+        "Hosidius House Portal"
+      ]
+    },
     "notes":""
   },
   "57":{
