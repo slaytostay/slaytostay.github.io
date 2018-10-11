@@ -4,13 +4,14 @@
     "master":"Turael",
     "monster":"Guard Dog (lvl 44)",
     "amount":"43",
-    "area":"",
+    "area":"Nardah",
     "unlocks":{
       "quests":[
-
+        "Spirits of the Elid"
       ],
       "shops":[
-        
+        "Rug Merchant",
+        "Seddu's Adventurer's Store"
       ],
       "other":[
         
