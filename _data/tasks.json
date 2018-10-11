@@ -7,17 +7,18 @@
     "area":"Nardah",
     "unlocks":{
       "quests":[
-        "Spirits of the Elid"
+        "Spirits of the Elid",
+        "Icthlarin's Little Helper"
       ],
       "shops":[
         "Rug Merchant",
         "Seddu's Adventurer's Store"
       ],
       "other":[
-        
+        "Agility Pyramid"
       ]
     },
-    "notes":""
+    "notes":"Unlocks Sophanem and Nardah"
   },
   "59":{
     "task":"Banshees",
