@@ -9,7 +9,7 @@ function generateMap(json) {
 
 	var draw = SVG('drawing').attr({
 			zoomAndPan:"magnify", contentStyleType:"text/css", preserveAspectRatio:"xMidYMid meet",
-			style:"background-color:black; overflow: hidden; display: inline; width: 100%; min-width: 100%; max-width: 100%; min-height: 720; height: 95%;"
+			style:"background-color:black; overflow: hidden; display: inline; width: 100%; min-width: 100%; max-width: 100%; min-height: 720; height: 100%;"
 	});
 
 	var defs = draw.defs();
