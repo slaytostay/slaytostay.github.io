@@ -7,7 +7,7 @@ permalink: /
 ## Introduction
 
 ### Slay to Stay Ironman
-- All of Gielinor is locked
+- The entire map is locked
 - Unlock areas by doing slayer tasks
 
 Full list of rules <a href="/rules/">here</a>.
