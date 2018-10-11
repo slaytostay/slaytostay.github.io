@@ -24,7 +24,7 @@ function generateMap(json) {
 	var layerMap = layers.group().attr({id:"layer-map", style:"opacity:1"});
 	var layerMapBack = layerMap.image("../assets/maps/map.png").attr({
 		id:"image-map",
-		style:"display:inline;opacity:1;image-rendering:pixelated",
+		style:"display:inline;opacity:1;image-rendering:auto",
 		preserveAspectRatio:"none"
 	});
 
@@ -37,7 +37,7 @@ function generateMap(json) {
 	var layerMapTop = layerMapBack.clone().attr({
 		x:0,y:0,width:8306,height:4850,
 		id:"image-map-top",
-		style:"display:inline;opacity:1;image-rendering:pixelated",
+		style:"display:inline;opacity:1;image-rendering:auto",
 		preserveAspectRatio:"none",
 		"clip-path":"url(#masks)"
 	})
@@ -46,7 +46,7 @@ function generateMap(json) {
 	var layerAreas = layers.group().attr({class:"layer-areas"});
 	var labels = layerAreas.group().attr({class:"labels", fill:"white"});
 	var areas = layerAreas.group().attr({class:"areas", style:"opacity:0", fill:"white"})
-	for (var i = 0; i < 1; i++) {
+	for (var i = 0; i < Object.keys(json).length; i++) {
 
 		var area = json[i];
 		if (!area["coords"]) continue;
