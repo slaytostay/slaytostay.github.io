@@ -1,7 +1,7 @@
 ---
-title: "Map"
-layout: public
-permalink: /map/
+title: "Fullscreen Map"
+layout: none
+permalink: /map-full/
 ---
 
 <script src='https://cdn.rawgit.com/anvaka/panzoom/v6.1.3/dist/panzoom.min.js'></script>
@@ -9,11 +9,11 @@ permalink: /map/
 <script src='https://cdn.rawgit.com/timmywil/jquery.panzoom/master/dist/jquery.panzoom.min.js'></script>
 <script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
 <style>
+	body {font-family: sans-serif;}
 	svg text {display: none;}
 	svg g.layer-areas:hover text {display: block;}
 </style>
 
-<h2>Interactive Task Map</h2>
-<div id="drawing" style="height:720"></div>
-<center><a href="/map-full/">Fullscreen (for better functionality)</a></center>
+<center><a href="/map/">Return</a></center>
+<div id="drawing" style="width:100%;height:100%"></div>
 <script src='/assets/scripts/generate-map.js'></script>
