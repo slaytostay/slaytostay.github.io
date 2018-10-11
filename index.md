@@ -22,7 +22,6 @@ Progress log archive <a href="/log/">here</a>.
 **In-game Name:** Slay to Stay
 
 **Links:**
-- <a href="https://discord.gg/WxT65U2">**Discord Server**</a>
 - <a href="https://github.com/slaytostay/">**GitHub**</a>
 - <a href="https://reddit.com/u/slaytostay/">**Reddit**</a>
 - <a href="https://slaytostay.imgur.com/">**Imgur**</a>
