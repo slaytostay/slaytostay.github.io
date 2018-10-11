@@ -1,0 +1,10 @@
+<script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
+
+<h2 id="title">{{ page.title }}</h2>
+
+<div id="album">Loading <a href="https://imgur.com/a/{{ page.imgur }}">album</a>...</div>
+
+<script>
+	var imgurId = "{{ page.imgur }}";
+</script>
+<script src='/assets/scripts/generate-log.js'></script>

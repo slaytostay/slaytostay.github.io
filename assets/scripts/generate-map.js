@@ -52,7 +52,7 @@ function generateMap(json) {
 		if (!area["coords"]) continue;
 		var coords = area["coords"].split(';');
 
-		var pos = coords[0].split(',')
+		var pos = coords[0].split(',');
 		var label = labels.plain("Task "+(i+1)+": "+area["task"]).attr({
 			x:pos[0],y:pos[1]
 		});
