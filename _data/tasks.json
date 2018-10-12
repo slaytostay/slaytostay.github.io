@@ -1,8 +1,16 @@
 {
+  "61":{
+    "task":"Bears",
+    "master":"Turael",
+    "monster":"Bear",
+    "amount":"41",
+    "area":"",
+    "notes":""
+  },
   "60":{
     "task":"Dogs",
     "master":"Turael",
-    "monster":"Guard Dog (lvl 44)",
+    "monster":"Jackal (lvl 24)",
     "amount":"43",
     "area":"Nardah",
     "unlocks":{
