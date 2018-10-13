@@ -2,10 +2,30 @@
    "61":{
       "task":"Bears",
       "master":"Turael",
-      "monster":"Bear",
+      "monster":"Bear (lvl 19)",
       "amount":"41",
-      "area":"",
-      "notes":""
+      "area":"Tree Gnome Village",
+      "coords":[
+         {
+            "x":4030,
+            "y":2695,
+            "w":245,
+            "h":235
+         }
+      ],
+      "unlocks":{
+         "quests":[
+            "Tree Gnome Village",
+            "Fight Arena"
+         ],
+         "shops":[
+            "Bolkoy's Village Shop"
+         ],
+         "other":[
+            
+         ]
+      },
+      "notes":"Unlock Tree Gnome Village"
    },
    "60":{
       "task":"Dogs",
