@@ -12,18 +12,23 @@
     "master":"Turael",
     "monster":"Jackal (lvl 24)",
     "amount":"43",
-    "area":"Nardah",
+    "area":"West of Nardah",
     "unlocks":{
       "quests":[
         "Spirits of the Elid",
-        "Icthlarin's Little Helper"
+        "Icthlarin's Little Helper",
+        "Contact!"
       ],
       "shops":[
         "Rug Merchant",
-        "Seddu's Adventurer's Store"
+        "Seddu's Adventurer's Store",
+        "Nardah Hunter Shop",
+        "Nardah General Store",
+        "Rok's Chocs Box"
       ],
       "other":[
-        "Agility Pyramid"
+        "Agility Pyramid",
+        "Pyramid Plunder"
       ]
     },
     "notes":"Unlocks Sophanem and Nardah"
