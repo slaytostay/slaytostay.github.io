@@ -17,7 +17,7 @@ function generateMap(json) {
 	});
 	var defs = draw.defs();
 	var masks = defs.clip().attr({id:"masks"});
-	
+
 	var cw = draw.node.clientWidth/2;
 	var ch = draw.node.clientHeight/2;
 	var ex = getElementLeft("drawing");
@@ -66,7 +66,7 @@ function generateMap(json) {
 			x:pos.x,y:pos.y
 		});
 
-		for (var j = 0; j < coords.length; j+=2){
+		for (var j = 0; j < coords.length; j++){
 			var pos = coords[j];
 			var attrs = {
 				x:pos.x,
