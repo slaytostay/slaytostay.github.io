@@ -17,13 +17,11 @@ function generateMap(json) {
 	});
 	var defs = draw.defs();
 	var masks = defs.clip().attr({id:"masks"});
-
-	// Needs improvement
+	
 	var cw = draw.node.clientWidth/2;
 	var ch = draw.node.clientHeight/2;
 	var ex = getElementLeft("drawing");
 	var ey = getElementTop("drawing");
-	console.log(ex, ey);
 	var pos0 = json[startId].coords[0];
 	var sx = -(pos0.x+pos0.w/2-cw+ex);
 	var sy = -(pos0.y+pos0.h/2-ch+ey);
