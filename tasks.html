@@ -24,7 +24,6 @@ permalink: /tasks/
 
 
 <script>
-
 function loadJson(file) {
 	$.getJSON(file, createTable);
 }
@@ -35,8 +34,30 @@ function createTable(json) {
   var tbody = getElem("tbody");
 
   var style = "text-align: right";
+
+	var result = "{\n";
   for (var i = Object.keys(json).length; i > 0; i--) {
-    var task = json[i-1];
+
+		var task = json[i-1];
+
+		/* Task rework
+		if (task["coords"]) {
+			var coords = task["coords"].split(';');
+
+			task.coords = [];
+			for (var j = 0; j < coords.length; j+=2){
+				var pos0 = coords[j].split(',');
+				var pos1 = coords[j+1].split(',');
+				var x = Number(pos0[0]);
+				var y = Number(pos0[1]);
+				var w = pos1[0]-x;
+				var h = pos1[1]-y;
+				task.coords.push({x:x,y:y,w:w,h:h});
+			}
+		}
+		result+="\t\""+(i-1)+"\":"+JSON.stringify(task)+",\n";
+		//*/
+
     var row = document.createElement("tr");
 
     var tdi = document.createElement("td");
@@ -69,6 +90,7 @@ function createTable(json) {
 
     tbody.appendChild(row);
   }
+	console.log(result+"}");
 }
 loadJson("/_data/tasks.json");
 

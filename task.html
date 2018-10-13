@@ -5,12 +5,19 @@ permalink: /task/
 ---
 
 <script src='/assets/scripts/url-query.js'></script>
+<script src='https://cdn.rawgit.com/anvaka/panzoom/v6.1.3/dist/panzoom.min.js'></script>
+<script src='https://cdn.rawgit.com/svgdotjs/svg.js/master/dist/svg.min.js'></script>
 <script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
 <style>
 .key { display: inline-block; width: 80px; font-weight: bold;}
 #nav-tasks {
 	text-align: center
 }
+</style>
+<style>
+	body {font-family: sans-serif;}
+	svg text {display: none;}
+	svg g.layer-areas:hover text {display: block;}
 </style>
 <h2>Task <span id="task-title-id">0</span>: <span id="task-title">Title</span></h2>
 <div id="nav-tasks">
@@ -46,21 +53,24 @@ permalink: /task/
 
 <div id="div-map">
 <h3>Task Map</h3>
-<span class="value" id="map">None</span>
+<div id="drawing" style="height:720"></div>
 </div>
 
+
+<script src='/assets/scripts/generate-map.js'></script>
 <script>
 
 var id = getParameterByName("id");
+var startId = id-1;
+var endId = id-1;
 
-function loadJson(file) {
+function loadTasks(file) {
 	$.getJSON(file, loadTask);
 }
 function getElem(e) {
 	return document.getElementById(e);
 }
 function wikiList(a) {
-	console.log(a);
 	if (a.length < 1) return "None";
 	var url = "http://oldschool.runescape.wiki/w/"
 	var result = "";
@@ -123,12 +133,12 @@ function loadTask(json) {
 	}
 
 	if (task.coords && task.coords != "") {
-		getElem("map").innerHTML = task.coords;
+		//getElem("map").innerHTML = task.coords;
 	} else {
 		getElem("div-map").innerHTML = "";
 	}
 
 }
-loadJson("/_data/tasks.json");
+loadTasks("/_data/tasks.json");
 
 </script>
