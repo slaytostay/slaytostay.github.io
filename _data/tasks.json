@@ -13,6 +13,7 @@
     "monster":"Jackal (lvl 24)",
     "amount":"43",
     "area":"West of Nardah",
+    "coords":"6355,3485;6935,4055",
     "unlocks":{
       "quests":[
         "Spirits of the Elid",
