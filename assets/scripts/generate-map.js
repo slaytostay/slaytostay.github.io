@@ -47,7 +47,7 @@ function generateMap(json) {
 		style:"display:inline;opacity:1;image-rendering:auto",
 		preserveAspectRatio:"none",
 		"clip-path":"url(#masks)"
-	})
+	});
 	layerMap.add(layerMapTop);
 
 	var layerAreas = layers.group().attr({class:"layer-areas"});
