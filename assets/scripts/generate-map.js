@@ -8,8 +8,9 @@ SVG.on(document, 'DOMContentLoaded', function() {
 function generateMap(json) {
 	if (startId == -1) {
 		startId = 0;
-		endId = Object.keys(json).length;
+		endId = Object.keys(json).length-1;
 	}
+	if (document.getElementById("drawing") == null) return;
 	var draw = SVG('drawing').attr({
 			zoomAndPan:"magnify", contentStyleType:"text/css", preserveAspectRatio:"xMidYMid meet",
 			style:"background-color:black; overflow: hidden; display: inline; width: 100%; min-width: 100%; max-width: 100%; min-height: 720; height: 100%;"
@@ -20,9 +21,12 @@ function generateMap(json) {
 	// Needs improvement
 	var cw = draw.node.clientWidth/2;
 	var ch = draw.node.clientHeight/2;
+	var ex = getElementLeft("drawing");
+	var ey = getElementTop("drawing");
+	console.log(ex, ey);
 	var pos0 = json[startId].coords[0];
-	var sx = -(pos0.x+pos0.w/2-cw);
-	var sy = -(pos0.y+pos0.h/2+ch);
+	var sx = -(pos0.x+pos0.w/2-cw+ex);
+	var sy = -(pos0.y+pos0.h/2-ch+ey);
 	var layers = draw.group().attr({id:"layers", transform:"matrix(1 0 0 1 "+sx+" "+sy+")"});
 
 	var layerBg = layers.group().attr({id:"layer-background"});
@@ -56,7 +60,7 @@ function generateMap(json) {
 	for (var i = startId; i < endId+1; i++) {
 
 		var area = json[i];
-		if (!area.coords) continue;
+		if (!area["coords"]) continue;
 		var coords = area.coords;
 
 		var pos = coords[0];
@@ -93,4 +97,31 @@ function generateMap(json) {
 	});//*/
 	var scene = document.getElementById('layers');
 	panzoom(scene);
+}
+
+function getElementTop ( Elem ) {
+    var elem = document.getElementById ( Elem );
+
+    yPos = elem.offsetTop;
+    tempEl = elem.offsetParent;
+
+    while ( tempEl != null ) {
+        yPos += tempEl.offsetTop;
+        tempEl = tempEl.offsetParent;
+    }
+    return yPos;
+}
+
+
+function getElementLeft ( Elem ) {
+    var elem = document.getElementById ( Elem );
+
+    xPos = elem.offsetLeft;
+    tempEl = elem.offsetParent;
+
+    while ( tempEl != null ) {
+        xPos += tempEl.offsetLeft;
+        tempEl = tempEl.offsetParent;
+    }
+    return xPos;
 }
