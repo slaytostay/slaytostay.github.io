@@ -1,4 +1,24 @@
 {
+   "62":{
+      "task":"Cows",
+      "master":"Turael",
+      "monster":"Cow (lvl 2)",
+      "amount":"41",
+      "area":"Zanaris",
+      "unlocks":{
+         "quests":[
+            
+         ],
+         "shops":[
+            "Jukat"
+         ],
+         "other":[
+            "Chaeldar",
+            "Puro-Puro"
+         ]
+      },
+      "notes":"Unlocks Zanaris (excluding the Evil Chicken's Lair)"
+   },
    "61":{
       "task":"Bears",
       "master":"Turael",
@@ -25,7 +45,7 @@
             
          ]
       },
-      "notes":"Unlock Tree Gnome Village"
+      "notes":"Unlocks Tree Gnome Village"
    },
    "60":{
       "task":"Dogs",
