@@ -31,6 +31,12 @@
             "y":2695,
             "w":245,
             "h":235
+         },
+         {
+            "x":4275,
+            "y":2695,
+            "w":360,
+            "h":235
          }
       ],
       "unlocks":{
@@ -45,7 +51,7 @@
             
          ]
       },
-      "notes":"Unlocks Tree Gnome Village"
+      "notes":"Unlocks Tree Gnome Village.\nFight Arena and Port Khazard unlocked after Fight Arena Quest (since there are no slayer monsters nearby and the quest involves slaying)."
    },
    "60":{
       "task":"Dogs",
@@ -1034,15 +1040,23 @@
       "master":"Turael",
       "monster":"Terrorbird (lvl 28)",
       "amount":"50",
-      "area":"Tree Gnome Stronghold (South)",
+      "area":"Tree Gnome Stronghold",
       "coords":[
          {
             "x":3680,
             "y":1910,
             "w":385,
             "h":245
-         }
+         }         
       ],
+      "coords_locked":[
+         {
+            "x":3680,
+            "y":1730,
+            "w":365,
+            "h":180
+         }   
+      ]
       "unlocks":{
          "quests":[
             "The Eyes of Glouphrie"
@@ -1058,7 +1072,7 @@
             "Nieve"
          ]
       },
-      "notes":""
+      "notes":"North Part is unlocked after The Eyes of Glouphrie (since there are no slayer monsters nearby and the quest involves slaying)"
    },
    "8":{
       "task":"Scorpions",
