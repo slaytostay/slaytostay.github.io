@@ -42,12 +42,12 @@ permalink: /rules/
 1. To unlock Krystilia:
 	- [x] &nbsp;Complete a skeleton task North of Edgeville.
 1. To unlock Mazchna:
-	- [ ] &nbsp;Complete a vampyre task in the Haunted Woods.
+	- [ ] &nbsp;Complete a werewolf task in Canafis.
 1. To unlock Vannaka:
-	- [ ] &nbsp;Complete any task in the Edgeville Dungeon.
+	- [ ] &nbsp;Complete a skeleton task Edgeville Dungeon.
 1. To unlock Chaeldar:
 	- [ ] &nbsp;Complete a cow task in Zanaris.
 1. To unlock Nieve:
-	- [x] &nbsp;Complete a birds task in the Gnome Stronghold.
+	- [x] &nbsp;Complete a bird task in the Gnome Stronghold.
 1. To unlock Duradel:
 	- [x] &nbsp;Complete a monkey task north of Shilo Village.
