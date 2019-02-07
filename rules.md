@@ -8,46 +8,27 @@ permalink: /rules/
 
 ### 1. General Rules
 1. Regular Ironman rules.
-1. May use Tutorial Island items.
-1. Must rush to Burthorpe and get a task from Turael straight away.
-1. Once you got a task you must pick an area where the task creature spawns and start killing it there.
-1. All other content is locked (with some exceptions).
-1. Once you finish the task, the content within the area you did your slayer task is now unlocked.
+1. Must drop Tutorial Island items.
+1. Must minigame teleport to Burthorpe before doing anything else.
+1. Burthorpe is the only unlocked area, all other content is locked.
+1. Once you got a task from Turael you can pick an area where that task monster is the strongest.
+1. Once you finish the task in that area, the content within the area you finished your slayer task in is now unlocked.
 
-### 2. Exceptions
-1. Turael is the only unlocked slayer master.
-	* See section 4 for unlocking Slayer Masters.
-1. Allowed to bank anywhere.
-1. Allowed to make use of teleports/toll gates/shortcuts.
-1. Allowed to use items anywhere as long as they don't use external resources.
-1. Allowed to use any item needed for a slayer task which can't be acquired in current unlocked areas.
-	* Example: light source for Lumbridge Caves
+### 2. Other Rules
+1. Allowed to keep any monster drop on task.
+1. Allowed to make use of teleports/toll gates/shortcuts/etc. to reduce time spent in locked areas when moving from area to area.
 1. Allowed to do quests which are started in unlocked areas.
-	* Can only use items acquired from the quest or unlocked areas.
-1. Allowed to do clues acquired in unlocked areas or during slayer tasks.
-	* Can only use items acquired from unlocked areas.
-1. Minor exceptions:
-	* Insuring pets.
-	* Buying skill capes.
-	* Locking Kourend favour.
+  * Quest requirements such as levels and items must be obtained within unlocked areas.
+1. Clue scroll steps must be completed in unlocked areas.
+  * Clue scroll requirements such as levels, items and quests must be obtained within unlocked areas.
 
-### 3. Unlocked Areas
-1. The unlocked area is based on the place where the slayer task is done.
-1. All content within render distance of the spawn positions of the assigned monster in that area is unlocked.
-1. All content within reasonable boundaries in the area is unlocked.
-	* There are no objective rules about what an area is. The idea is that the player has to earn his right to stay in the area by slaying the monsters there.
-1. All buildings including all floors and underground areas are unlocked as long as there are no other slayer monsters there.
-
-### 4. Slayer Masters
-1. To unlock Krystilia:
-	- [x] &nbsp;Complete a skeleton task North of Edgeville.
-1. To unlock Mazchna:
-	- [ ] &nbsp;Complete a werewolf task in Canafis.
-1. To unlock Vannaka:
-	- [ ] &nbsp;Complete a skeleton task Edgeville Dungeon.
-1. To unlock Chaeldar:
-	- [ ] &nbsp;Complete a cow task in Zanaris.
-1. To unlock Nieve:
-	- [x] &nbsp;Complete a bird task in the Gnome Stronghold.
-1. To unlock Duradel:
-	- [x] &nbsp;Complete a monkey task north of Shilo Village.
+### 3. Areas
+1. An area is 64 by 64 tiles as defined by the game itself. (Example map here: https://explv.github.io)
+1. An area contains the surface region as well as the underground region.
+  * To calculate this we take the region ID of the surface and add 100 to it to get the region ID of the underground region.
+  * For example: Lumbridge Castle is in region 12850 and the Lumbridge Castle basement is in region 12950.
+1. Regions which are not on the surface nor in the underground and do not contain any slayer monsters are unlocked by unlocking the area with the entrance to that region.
+  * Everything between y=4160 and y=8896 is not surface nor underground.
+  * The reason for this rule is because everything that is within those coordinates are not clear on their position on the world map.
+  * For example: the Rogue's Den has no slayer monsters and y=4928 and is therefore unlocked by unlocking Burthorpe.
+1. The unlocked area is based on the place where the slayer monster respawns.
