@@ -25,7 +25,7 @@ permalink: /rules/
 
 
 ### 3. Areas
-1. An area is 64 by 64 tiles as defined by the game itself. (Example map here: [xplv.github.io](https://explv.github.ioe))
+1. An area is 64 by 64 tiles as defined by the game itself. (Example map here: [explv.github.io](https://explv.github.ioe))
 1. An area contains the surface region as well as the underground region.
   * To calculate this we take the region ID of the surface and add 100 to it to get the region ID of the underground region.
   * For example: Lumbridge Castle is in region 12850 and the Lumbridge Castle basement is in region 12950.
@@ -35,5 +35,6 @@ permalink: /rules/
   * For example: the Rogue's Den has no slayer monsters and y=4928 and is therefore unlocked by unlocking Burthorpe.
 1. The unlocked area is based on the place where the slayer monster respawns.
 1. Two areas do not have their strongest monster as monster to unlock the area.
-  * These areas are: Grand Exchange/Vannaka (from Moss Giant to Deadly Red Spider) and Mount Karuulm/Konar (from Hydra to Drake).
+  * Grand Exchange/Vannaka (from Moss Giant to Deadly Red Spider)
+  * Mount Karuulm/Konar (from Hydra to Drake).
   * This done because the original strongest monster are only assigned by the slayer master in that area.
