@@ -17,10 +17,12 @@ permalink: /rules/
 ### 2. Other Rules
 1. Allowed to keep any monster drop on task.
 1. Allowed to make use of teleports/toll gates/shortcuts/etc. to reduce time spent in locked areas when moving from area to area.
-1. Allowed to do quests which are started in unlocked areas.
-  * Quest requirements such as levels and items must be obtained within unlocked areas.
 1. Clue scroll steps must be completed in unlocked areas.
   * Clue scroll requirements such as levels, items and quests must be obtained within unlocked areas.
+1. Allowed to do quests which are started in unlocked areas.
+  * Quest requirements such as levels and items must be obtained within unlocked areas.
+1. If all possible areas from a slayer master are unlocked, I may start quests in locked areas if they unlock new areas for that slayer master.
+
 
 ### 3. Areas
 1. An area is 64 by 64 tiles as defined by the game itself. (Example map here: [https://explv.github.io](explv.github.io))
@@ -32,3 +34,6 @@ permalink: /rules/
   * The reason for this rule is because everything that is within those coordinates are not clear on their position on the world map.
   * For example: the Rogue's Den has no slayer monsters and y=4928 and is therefore unlocked by unlocking Burthorpe.
 1. The unlocked area is based on the place where the slayer monster respawns.
+1. Two areas do not have their strongest monster as monster to unlock the area.
+  * These areas are: Grand Exchange/Vannaka (from Moss Giant to Deadly Red Spider) and Mount Karuulm/Konar (from Hydra to Drake).
+  * This done because the original strongest monster are only assigned by the slayer master in that area.
