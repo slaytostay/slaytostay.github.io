@@ -37,4 +37,4 @@ permalink: /rules/
 1. Two areas do not have their strongest monster as monster to unlock the area.
   * Grand Exchange/Vannaka (from Moss Giant to Deadly Red Spider)
   * Mount Karuulm/Konar (from Hydra to Drake).
-  * This done because the original strongest monster are only assigned by the slayer master in that area.
+  * This done because the original strongest monster is only assigned by the slayer master in that area.
