@@ -25,7 +25,7 @@ permalink: /rules/
 
 
 ### 3. Areas
-1. An area is 64 by 64 tiles as defined by the game itself. (Example map here: [explv.github.io](https://explv.github.ioe))
+1. An area is 64 by 64 tiles as defined by the game itself. (Example map here: [explv.github.io](https://explv.github.io))
 1. An area contains the surface region as well as the underground region.
   * To calculate this we take the region ID of the surface and add 100 to it to get the region ID of the underground region.
   * For example: Lumbridge Castle is in region 12850 and the Lumbridge Castle basement is in region 12950.
