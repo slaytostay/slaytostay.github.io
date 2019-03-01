@@ -41,3 +41,5 @@ permalink: /rules/
   * Grand Exchange/Vannaka (from Moss Giant to Deadly Red Spider)
   * Mount Karuulm/Konar (from Hydra to Drake).
   * This done because the original strongest monster is only assigned by the slayer master in that area.
+  * First task of the actual strongest monster must be completed in the area of the slayer master you unlocked with this rule.
+  * May not kill the actual strongest monster in that area until you complete the point above.
