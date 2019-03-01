@@ -16,11 +16,14 @@ permalink: /rules/
 
 ### 2. Other Rules
 1. Allowed to keep any monster drop on task.
+1. Allowed to use any item without external resources.
 1. Allowed to make use of teleports/toll gates/shortcuts/etc. to reduce time spent in locked areas when moving from area to area.
+1. Allowed to do any random event.
 1. Clue scroll steps must be completed in unlocked areas.
   * Clue scroll requirements such as levels, items and quests must be obtained within unlocked areas.
 1. Allowed to do quests which are started in unlocked areas.
   * Quest requirements such as levels and items must be obtained within unlocked areas.
+  * If a quest step is within an (eventually) unlockable area, the area must be unlocked first.
 1. If all possible areas from a slayer master are unlocked, I may start quests in locked areas if they unlock new areas for that slayer master.
 
 
