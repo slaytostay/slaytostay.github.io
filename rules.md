@@ -34,7 +34,7 @@ permalink: /rules/
   * For example: Lumbridge Castle is in region 12850 and the Lumbridge Castle basement is in region 12950.
 1. Regions which are not on the surface nor in the underground and do not contain any slayer monsters are unlocked by unlocking the area with the entrance to that region.
   * Everything between y=4160 and y=8896 is not surface nor underground.
-  * The reason for this rule is because everything that is within those coordinates are not clear on their position on the world map.
+  * This rule is put in place because these regions do not have an objective relation to regions on the surface, unlike underground regions.
   * For example: the Rogue's Den has no slayer monsters and y=4928 and is therefore unlocked by unlocking Burthorpe.
 1. The unlocked area is based on the place where the slayer monster respawns.
 1. Two areas do not have their strongest monster as monster to unlock the area.
